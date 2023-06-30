@@ -1,0 +1,17 @@
+{
+    "filename": {
+        "Description": "Name of the file"
+    },
+	"amplification": {
+		"Description": "Amplification in dB"
+	},
+	"ground": {
+		"Description": "ground electrode"
+	},
+	"refs": {
+		"Description": "Channels used as reference"
+	},
+    "comments": {
+        "Description": "Miscellaneous comments on study, interview, methodology relevant to this form data"
+    }
+}
