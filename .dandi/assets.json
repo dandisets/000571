@@ -5,7 +5,7 @@
 "blob":
 "1abdb355-43b8-4c64-b71b-b894385a0dec",
 "created":
-"2023-06-30T20:28:53.651117+00:00",
+"2023-06-30T20:28:53.651117Z",
 "metadata":
 {
 "@context":
@@ -114,7 +114,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:28:53.686097+00:00",
+"2023-06-30T20:28:53.686097Z",
 "path":
 "README",
 "size":
@@ -126,7 +126,7 @@
 "blob":
 "5e518391-1297-4a10-84ee-4971e1a52e3d",
 "created":
-"2023-06-30T20:28:53.439963+00:00",
+"2023-06-30T20:28:53.439963Z",
 "metadata":
 {
 "@context":
@@ -235,7 +235,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:28:53.545748+00:00",
+"2023-06-30T20:28:53.545748Z",
 "path":
 "participants.json",
 "size":
@@ -247,7 +247,7 @@
 "blob":
 "91112ae0-729b-4db2-9a86-b1b4ab0da7f5",
 "created":
-"2023-06-30T20:28:53.546318+00:00",
+"2023-06-30T20:28:53.546318Z",
 "metadata":
 {
 "@context":
@@ -356,7 +356,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:28:53.618303+00:00",
+"2023-06-30T20:28:53.618303Z",
 "path":
 "participants.tsv",
 "size":
@@ -368,7 +368,7 @@
 "blob":
 "3eb2852e-f2ad-43e4-b67e-6bd3bbdd235c",
 "created":
-"2023-06-30T20:28:54.027391+00:00",
+"2023-06-30T20:28:54.027391Z",
 "metadata":
 {
 "@context":
@@ -475,7 +475,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:28:54.069781+00:00",
+"2023-06-30T20:28:54.069781Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch0.timd/Ch0-000000.segd/Ch0-000000.tdat",
 "size":
@@ -487,7 +487,7 @@
 "blob":
 "08b7263b-4884-4d9e-bbe0-6fa6cc3f8116",
 "created":
-"2023-06-30T20:28:53.812479+00:00",
+"2023-06-30T20:28:53.812479Z",
 "metadata":
 {
 "@context":
@@ -594,7 +594,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:28:53.853683+00:00",
+"2023-06-30T20:28:53.853683Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch0.timd/Ch0-000000.segd/Ch0-000000.tidx",
 "size":
@@ -606,7 +606,7 @@
 "blob":
 "c1e73dd0-cc8a-451f-bf56-06ceb149fe65",
 "created":
-"2023-06-30T20:28:59.015972+00:00",
+"2023-06-30T20:28:59.015972Z",
 "metadata":
 {
 "@context":
@@ -713,7 +713,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:28:59.061320+00:00",
+"2023-06-30T20:28:59.061320Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch0.timd/Ch0-000000.segd/Ch0-000000.tmet",
 "size":
@@ -725,7 +725,7 @@
 "blob":
 "af319f15-cb6d-41d1-8b0a-71eb73ed04d1",
 "created":
-"2023-06-30T20:28:59.832006+00:00",
+"2023-06-30T20:28:59.832006Z",
 "metadata":
 {
 "@context":
@@ -832,7 +832,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:28:59.872476+00:00",
+"2023-06-30T20:28:59.872476Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch1.timd/Ch1-000000.segd/Ch1-000000.tdat",
 "size":
@@ -844,7 +844,7 @@
 "blob":
 "fa96b96a-8873-4040-98af-a4dd4ca6362a",
 "created":
-"2023-06-30T20:28:59.232207+00:00",
+"2023-06-30T20:28:59.232207Z",
 "metadata":
 {
 "@context":
@@ -951,7 +951,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:28:59.270604+00:00",
+"2023-06-30T20:28:59.270604Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch1.timd/Ch1-000000.segd/Ch1-000000.tidx",
 "size":
@@ -963,7 +963,7 @@
 "blob":
 "6bd2c3a9-9db1-4a6c-b47b-1cd62e2b8da0",
 "created":
-"2023-06-30T20:29:00.178253+00:00",
+"2023-06-30T20:29:00.178253Z",
 "metadata":
 {
 "@context":
@@ -1070,7 +1070,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:29:00.216556+00:00",
+"2023-06-30T20:29:00.216556Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch1.timd/Ch1-000000.segd/Ch1-000000.tmet",
 "size":
@@ -1082,7 +1082,7 @@
 "blob":
 "c7cd9041-149e-4ee0-ab9e-c3d771989a7b",
 "created":
-"2023-06-30T20:29:00.353235+00:00",
+"2023-06-30T20:29:00.353235Z",
 "metadata":
 {
 "@context":
@@ -1189,7 +1189,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:29:00.390708+00:00",
+"2023-06-30T20:29:00.390708Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch10.timd/Ch10-000000.segd/Ch10-000000.tdat",
 "size":
@@ -1201,7 +1201,7 @@
 "blob":
 "2400fc92-ed6f-4478-9d3a-542c4e46944e",
 "created":
-"2023-06-30T20:29:04.710786+00:00",
+"2023-06-30T20:29:04.710786Z",
 "metadata":
 {
 "@context":
@@ -1308,7 +1308,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:29:04.745365+00:00",
+"2023-06-30T20:29:04.745365Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch10.timd/Ch10-000000.segd/Ch10-000000.tidx",
 "size":
@@ -1320,7 +1320,7 @@
 "blob":
 "ed25c7eb-7126-45b0-8b8f-d462a5ec57c3",
 "created":
-"2023-06-30T20:29:06.014921+00:00",
+"2023-06-30T20:29:06.014921Z",
 "metadata":
 {
 "@context":
@@ -1427,7 +1427,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:29:06.083855+00:00",
+"2023-06-30T20:29:06.083855Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch10.timd/Ch10-000000.segd/Ch10-000000.tmet",
 "size":
@@ -1439,7 +1439,7 @@
 "blob":
 "d4a3cafd-57fb-4b1a-a3d6-8a488cb28ecb",
 "created":
-"2023-06-30T20:29:07.092450+00:00",
+"2023-06-30T20:29:07.092450Z",
 "metadata":
 {
 "@context":
@@ -1546,7 +1546,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:29:07.126891+00:00",
+"2023-06-30T20:29:07.126891Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch11.timd/Ch11-000000.segd/Ch11-000000.tdat",
 "size":
@@ -1558,7 +1558,7 @@
 "blob":
 "9943be45-3205-4995-a22b-d206d7226c20",
 "created":
-"2023-06-30T20:29:06.749289+00:00",
+"2023-06-30T20:29:06.749289Z",
 "metadata":
 {
 "@context":
@@ -1665,7 +1665,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:29:06.791083+00:00",
+"2023-06-30T20:29:06.791083Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch11.timd/Ch11-000000.segd/Ch11-000000.tidx",
 "size":
@@ -1677,7 +1677,7 @@
 "blob":
 "2dc4c1e7-0e2f-4c85-bded-59719664f2fa",
 "created":
-"2023-06-30T20:29:07.700705+00:00",
+"2023-06-30T20:29:07.700705Z",
 "metadata":
 {
 "@context":
@@ -1784,7 +1784,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:29:07.740371+00:00",
+"2023-06-30T20:29:07.740371Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch11.timd/Ch11-000000.segd/Ch11-000000.tmet",
 "size":
@@ -1796,7 +1796,7 @@
 "blob":
 "3a25e9ae-02eb-4a60-ac63-6dca873fac43",
 "created":
-"2023-06-30T20:29:12.480171+00:00",
+"2023-06-30T20:29:12.480171Z",
 "metadata":
 {
 "@context":
@@ -1903,7 +1903,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:29:12.529916+00:00",
+"2023-06-30T20:29:12.529916Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch12.timd/Ch12-000000.segd/Ch12-000000.tdat",
 "size":
@@ -1915,7 +1915,7 @@
 "blob":
 "aace83a1-6342-44f7-b5f0-cbc0c7b7bd25",
 "created":
-"2023-06-30T20:29:14.331682+00:00",
+"2023-06-30T20:29:14.331682Z",
 "metadata":
 {
 "@context":
@@ -2022,7 +2022,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:29:14.366891+00:00",
+"2023-06-30T20:29:14.366891Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch12.timd/Ch12-000000.segd/Ch12-000000.tidx",
 "size":
@@ -2034,7 +2034,7 @@
 "blob":
 "ba761f32-043d-45ab-9b8f-6723fae8f2a8",
 "created":
-"2023-06-30T20:29:16.117006+00:00",
+"2023-06-30T20:29:16.117006Z",
 "metadata":
 {
 "@context":
@@ -2141,7 +2141,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:29:16.159887+00:00",
+"2023-06-30T20:29:16.159887Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch12.timd/Ch12-000000.segd/Ch12-000000.tmet",
 "size":
@@ -2153,7 +2153,7 @@
 "blob":
 "cffb70af-4d59-466e-9aef-01b4364e7cc7",
 "created":
-"2023-06-30T20:29:17.272221+00:00",
+"2023-06-30T20:29:17.272221Z",
 "metadata":
 {
 "@context":
@@ -2260,7 +2260,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:29:17.310753+00:00",
+"2023-06-30T20:29:17.310753Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch13.timd/Ch13-000000.segd/Ch13-000000.tdat",
 "size":
@@ -2272,7 +2272,7 @@
 "blob":
 "531c9a42-f76a-4ffd-b7c8-af6cb424a3f8",
 "created":
-"2023-06-30T20:29:16.763500+00:00",
+"2023-06-30T20:29:16.763500Z",
 "metadata":
 {
 "@context":
@@ -2379,7 +2379,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:29:16.812020+00:00",
+"2023-06-30T20:29:16.812020Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch13.timd/Ch13-000000.segd/Ch13-000000.tidx",
 "size":
@@ -2391,7 +2391,7 @@
 "blob":
 "fdd10d3c-5caf-4656-8937-fd568792cae9",
 "created":
-"2023-06-30T20:29:20.864112+00:00",
+"2023-06-30T20:29:20.864112Z",
 "metadata":
 {
 "@context":
@@ -2498,7 +2498,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:29:20.907423+00:00",
+"2023-06-30T20:29:20.907423Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch13.timd/Ch13-000000.segd/Ch13-000000.tmet",
 "size":
@@ -2510,7 +2510,7 @@
 "blob":
 "cc08983e-3223-4d89-86ee-4a93f47c9d4f",
 "created":
-"2023-06-30T20:29:22.656590+00:00",
+"2023-06-30T20:29:22.656590Z",
 "metadata":
 {
 "@context":
@@ -2617,7 +2617,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:29:22.691693+00:00",
+"2023-06-30T20:29:22.691693Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch14.timd/Ch14-000000.segd/Ch14-000000.tdat",
 "size":
@@ -2629,7 +2629,7 @@
 "blob":
 "f1ae177c-4e61-4982-939e-bddca6df0355",
 "created":
-"2023-06-30T20:29:24.228927+00:00",
+"2023-06-30T20:29:24.228927Z",
 "metadata":
 {
 "@context":
@@ -2736,7 +2736,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:29:24.263833+00:00",
+"2023-06-30T20:29:24.263833Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch14.timd/Ch14-000000.segd/Ch14-000000.tidx",
 "size":
@@ -2748,7 +2748,7 @@
 "blob":
 "5d063f7e-eb9c-429b-bc05-05f4a0fadfd8",
 "created":
-"2023-06-30T20:29:24.962002+00:00",
+"2023-06-30T20:29:24.962002Z",
 "metadata":
 {
 "@context":
@@ -2855,7 +2855,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:29:24.995401+00:00",
+"2023-06-30T20:29:24.995401Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch14.timd/Ch14-000000.segd/Ch14-000000.tmet",
 "size":
@@ -2867,7 +2867,7 @@
 "blob":
 "fa771ae0-d374-4c22-bd28-de0be9b95b4b",
 "created":
-"2023-06-30T20:29:25.704599+00:00",
+"2023-06-30T20:29:25.704599Z",
 "metadata":
 {
 "@context":
@@ -2974,7 +2974,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:29:25.743989+00:00",
+"2023-06-30T20:29:25.743989Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch15.timd/Ch15-000000.segd/Ch15-000000.tdat",
 "size":
@@ -2986,7 +2986,7 @@
 "blob":
 "7bfdb48b-618a-4f66-a1fc-94db19b19250",
 "created":
-"2023-06-30T20:29:29.426387+00:00",
+"2023-06-30T20:29:29.426387Z",
 "metadata":
 {
 "@context":
@@ -3093,7 +3093,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:29:29.476944+00:00",
+"2023-06-30T20:29:29.476944Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch15.timd/Ch15-000000.segd/Ch15-000000.tidx",
 "size":
@@ -3105,7 +3105,7 @@
 "blob":
 "d1f6dbe1-90c1-4f22-8e4c-9781562a7927",
 "created":
-"2023-06-30T20:29:31.557727+00:00",
+"2023-06-30T20:29:31.557727Z",
 "metadata":
 {
 "@context":
@@ -3212,7 +3212,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:29:31.597375+00:00",
+"2023-06-30T20:29:31.597375Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch15.timd/Ch15-000000.segd/Ch15-000000.tmet",
 "size":
@@ -3224,7 +3224,7 @@
 "blob":
 "7189acd1-3564-41d7-9cb1-bfa051111415",
 "created":
-"2023-06-30T20:29:33.742340+00:00",
+"2023-06-30T20:29:33.742340Z",
 "metadata":
 {
 "@context":
@@ -3331,7 +3331,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:29:33.776907+00:00",
+"2023-06-30T20:29:33.776907Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch16.timd/Ch16-000000.segd/Ch16-000000.tdat",
 "size":
@@ -3343,7 +3343,7 @@
 "blob":
 "97ca01c7-6f11-492b-abf4-a624f014dc56",
 "created":
-"2023-06-30T20:29:34.856105+00:00",
+"2023-06-30T20:29:34.856105Z",
 "metadata":
 {
 "@context":
@@ -3450,7 +3450,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:29:34.890970+00:00",
+"2023-06-30T20:29:34.890970Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch16.timd/Ch16-000000.segd/Ch16-000000.tidx",
 "size":
@@ -3462,7 +3462,7 @@
 "blob":
 "e518ccc5-a950-4695-97e7-b9ee91cf73fe",
 "created":
-"2023-06-30T20:29:35.432046+00:00",
+"2023-06-30T20:29:35.432046Z",
 "metadata":
 {
 "@context":
@@ -3569,7 +3569,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:29:35.466371+00:00",
+"2023-06-30T20:29:35.466371Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch16.timd/Ch16-000000.segd/Ch16-000000.tmet",
 "size":
@@ -3581,7 +3581,7 @@
 "blob":
 "d28c4ea8-9062-4720-a2b3-7d4040e68e48",
 "created":
-"2023-06-30T20:29:38.013140+00:00",
+"2023-06-30T20:29:38.013140Z",
 "metadata":
 {
 "@context":
@@ -3688,7 +3688,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:29:38.050701+00:00",
+"2023-06-30T20:29:38.050701Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch17.timd/Ch17-000000.segd/Ch17-000000.tdat",
 "size":
@@ -3700,7 +3700,7 @@
 "blob":
 "94a5aebd-2486-462c-a0ff-6e4e249a96cc",
 "created":
-"2023-06-30T20:29:42.269074+00:00",
+"2023-06-30T20:29:42.269074Z",
 "metadata":
 {
 "@context":
@@ -3807,7 +3807,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:29:42.320628+00:00",
+"2023-06-30T20:29:42.320628Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch17.timd/Ch17-000000.segd/Ch17-000000.tidx",
 "size":
@@ -3819,7 +3819,7 @@
 "blob":
 "52b88f67-16ea-4a97-b3c7-22d289048e9f",
 "created":
-"2023-06-30T20:29:45.113454+00:00",
+"2023-06-30T20:29:45.113454Z",
 "metadata":
 {
 "@context":
@@ -3926,7 +3926,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:29:45.151870+00:00",
+"2023-06-30T20:29:45.151870Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch17.timd/Ch17-000000.segd/Ch17-000000.tmet",
 "size":
@@ -3938,7 +3938,7 @@
 "blob":
 "db7385f6-1a1a-4e09-a9d7-779b9a18f62d",
 "created":
-"2023-06-30T20:29:46.481055+00:00",
+"2023-06-30T20:29:46.481055Z",
 "metadata":
 {
 "@context":
@@ -4045,7 +4045,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:29:46.515844+00:00",
+"2023-06-30T20:29:46.515844Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch18.timd/Ch18-000000.segd/Ch18-000000.tdat",
 "size":
@@ -4057,7 +4057,7 @@
 "blob":
 "6859aff6-a94a-4a4b-9841-0453c5eed34e",
 "created":
-"2023-06-30T20:29:47.332882+00:00",
+"2023-06-30T20:29:47.332882Z",
 "metadata":
 {
 "@context":
@@ -4164,7 +4164,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:29:47.369923+00:00",
+"2023-06-30T20:29:47.369923Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch18.timd/Ch18-000000.segd/Ch18-000000.tidx",
 "size":
@@ -4176,7 +4176,7 @@
 "blob":
 "33173266-c7cb-4074-ba2a-09505bd22892",
 "created":
-"2023-06-30T20:29:50.526023+00:00",
+"2023-06-30T20:29:50.526023Z",
 "metadata":
 {
 "@context":
@@ -4283,7 +4283,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:29:50.565263+00:00",
+"2023-06-30T20:29:50.565263Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch18.timd/Ch18-000000.segd/Ch18-000000.tmet",
 "size":
@@ -4295,7 +4295,7 @@
 "blob":
 "c3a9dff4-3ae4-4508-93e4-3a04404fd238",
 "created":
-"2023-06-30T20:29:53.373489+00:00",
+"2023-06-30T20:29:53.373489Z",
 "metadata":
 {
 "@context":
@@ -4402,7 +4402,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:29:53.411968+00:00",
+"2023-06-30T20:29:53.411968Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch19.timd/Ch19-000000.segd/Ch19-000000.tdat",
 "size":
@@ -4414,7 +4414,7 @@
 "blob":
 "b3ad0fe6-8196-47d1-af1f-75cb45336ea7",
 "created":
-"2023-06-30T20:29:54.850860+00:00",
+"2023-06-30T20:29:54.850860Z",
 "metadata":
 {
 "@context":
@@ -4521,7 +4521,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:29:54.890079+00:00",
+"2023-06-30T20:29:54.890079Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch19.timd/Ch19-000000.segd/Ch19-000000.tidx",
 "size":
@@ -4533,7 +4533,7 @@
 "blob":
 "708550b5-176e-4a64-b90b-2e3261394875",
 "created":
-"2023-06-30T20:29:55.758214+00:00",
+"2023-06-30T20:29:55.758214Z",
 "metadata":
 {
 "@context":
@@ -4640,7 +4640,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:29:55.796597+00:00",
+"2023-06-30T20:29:55.796597Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch19.timd/Ch19-000000.segd/Ch19-000000.tmet",
 "size":
@@ -4652,7 +4652,7 @@
 "blob":
 "0b8798e5-2700-432d-9f29-82df73910640",
 "created":
-"2023-06-30T20:29:57.523505+00:00",
+"2023-06-30T20:29:57.523505Z",
 "metadata":
 {
 "@context":
@@ -4759,7 +4759,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:29:57.569528+00:00",
+"2023-06-30T20:29:57.569528Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch2.timd/Ch2-000000.segd/Ch2-000000.tdat",
 "size":
@@ -4771,7 +4771,7 @@
 "blob":
 "e364e985-1b2f-49a9-9a47-29b30bfb648a",
 "created":
-"2023-06-30T20:30:00.123669+00:00",
+"2023-06-30T20:30:00.123669Z",
 "metadata":
 {
 "@context":
@@ -4878,7 +4878,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:30:00.207657+00:00",
+"2023-06-30T20:30:00.207657Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch2.timd/Ch2-000000.segd/Ch2-000000.tidx",
 "size":
@@ -4890,7 +4890,7 @@
 "blob":
 "0d22b480-85e0-414c-b2ac-85f153702888",
 "created":
-"2023-06-30T20:30:03.209395+00:00",
+"2023-06-30T20:30:03.209395Z",
 "metadata":
 {
 "@context":
@@ -4997,7 +4997,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:30:03.257544+00:00",
+"2023-06-30T20:30:03.257544Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch2.timd/Ch2-000000.segd/Ch2-000000.tmet",
 "size":
@@ -5009,7 +5009,7 @@
 "blob":
 "a9a69d66-a627-4cbd-8635-3a09bbcf4ca6",
 "created":
-"2023-06-30T20:30:05.534214+00:00",
+"2023-06-30T20:30:05.534214Z",
 "metadata":
 {
 "@context":
@@ -5116,7 +5116,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:30:05.575840+00:00",
+"2023-06-30T20:30:05.575840Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch20.timd/Ch20-000000.segd/Ch20-000000.tdat",
 "size":
@@ -5128,7 +5128,7 @@
 "blob":
 "1cca1e49-4cfe-47f6-bed9-c9b0a6c26a32",
 "created":
-"2023-06-30T20:30:05.826942+00:00",
+"2023-06-30T20:30:05.826942Z",
 "metadata":
 {
 "@context":
@@ -5235,7 +5235,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:30:05.863316+00:00",
+"2023-06-30T20:30:05.863316Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch20.timd/Ch20-000000.segd/Ch20-000000.tidx",
 "size":
@@ -5247,7 +5247,7 @@
 "blob":
 "2a30b474-e399-4536-8bdb-8f4aaa78c27f",
 "created":
-"2023-06-30T20:30:07.961641+00:00",
+"2023-06-30T20:30:07.961641Z",
 "metadata":
 {
 "@context":
@@ -5354,7 +5354,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:30:07.997313+00:00",
+"2023-06-30T20:30:07.997313Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch20.timd/Ch20-000000.segd/Ch20-000000.tmet",
 "size":
@@ -5366,7 +5366,7 @@
 "blob":
 "519d672c-370b-44fe-a310-965ccddacedd",
 "created":
-"2023-06-30T20:30:10.606331+00:00",
+"2023-06-30T20:30:10.606331Z",
 "metadata":
 {
 "@context":
@@ -5473,7 +5473,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:30:10.645582+00:00",
+"2023-06-30T20:30:10.645582Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch21.timd/Ch21-000000.segd/Ch21-000000.tdat",
 "size":
@@ -5485,7 +5485,7 @@
 "blob":
 "a2d0a041-7bcd-4ccd-836a-fb90e5f98a53",
 "created":
-"2023-06-30T20:30:12.661458+00:00",
+"2023-06-30T20:30:12.661458Z",
 "metadata":
 {
 "@context":
@@ -5592,7 +5592,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:30:12.694824+00:00",
+"2023-06-30T20:30:12.694824Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch21.timd/Ch21-000000.segd/Ch21-000000.tidx",
 "size":
@@ -5604,7 +5604,7 @@
 "blob":
 "e746adde-9a37-4d77-8662-3f50bcecbdd2",
 "created":
-"2023-06-30T20:30:16.454915+00:00",
+"2023-06-30T20:30:16.454915Z",
 "metadata":
 {
 "@context":
@@ -5711,7 +5711,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:30:16.493048+00:00",
+"2023-06-30T20:30:16.493048Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch21.timd/Ch21-000000.segd/Ch21-000000.tmet",
 "size":
@@ -5723,7 +5723,7 @@
 "blob":
 "04122d8d-bfb4-4876-8026-b2383baeb722",
 "created":
-"2023-06-30T20:30:17.525192+00:00",
+"2023-06-30T20:30:17.525192Z",
 "metadata":
 {
 "@context":
@@ -5830,7 +5830,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:30:17.563343+00:00",
+"2023-06-30T20:30:17.563343Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch22.timd/Ch22-000000.segd/Ch22-000000.tdat",
 "size":
@@ -5842,7 +5842,7 @@
 "blob":
 "f9bdab24-9e64-419c-aa5d-e4089fc0474a",
 "created":
-"2023-06-30T20:30:20.911669+00:00",
+"2023-06-30T20:30:20.911669Z",
 "metadata":
 {
 "@context":
@@ -5949,7 +5949,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:30:20.949032+00:00",
+"2023-06-30T20:30:20.949032Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch22.timd/Ch22-000000.segd/Ch22-000000.tidx",
 "size":
@@ -5961,7 +5961,7 @@
 "blob":
 "1df5412e-e3af-41dc-82d2-b6a0e95e040e",
 "created":
-"2023-06-30T20:30:27.652694+00:00",
+"2023-06-30T20:30:27.652694Z",
 "metadata":
 {
 "@context":
@@ -6068,7 +6068,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:30:27.696294+00:00",
+"2023-06-30T20:30:27.696294Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch22.timd/Ch22-000000.segd/Ch22-000000.tmet",
 "size":
@@ -6080,7 +6080,7 @@
 "blob":
 "b4e23509-45e4-4aa7-89b7-6b342e6d4169",
 "created":
-"2023-06-30T20:30:34.342342+00:00",
+"2023-06-30T20:30:34.342342Z",
 "metadata":
 {
 "@context":
@@ -6187,7 +6187,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:30:34.404064+00:00",
+"2023-06-30T20:30:34.404064Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch23.timd/Ch23-000000.segd/Ch23-000000.tdat",
 "size":
@@ -6199,7 +6199,7 @@
 "blob":
 "eb302d05-1a23-41f5-afe7-577138c66e88",
 "created":
-"2023-06-30T20:30:39.057105+00:00",
+"2023-06-30T20:30:39.057105Z",
 "metadata":
 {
 "@context":
@@ -6306,7 +6306,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:30:39.099938+00:00",
+"2023-06-30T20:30:39.099938Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch23.timd/Ch23-000000.segd/Ch23-000000.tidx",
 "size":
@@ -6318,7 +6318,7 @@
 "blob":
 "68e28575-8442-4f25-9a00-ea4d80ad7d8a",
 "created":
-"2023-06-30T20:30:39.608370+00:00",
+"2023-06-30T20:30:39.608370Z",
 "metadata":
 {
 "@context":
@@ -6425,7 +6425,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:30:39.644614+00:00",
+"2023-06-30T20:30:39.644614Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch23.timd/Ch23-000000.segd/Ch23-000000.tmet",
 "size":
@@ -6437,7 +6437,7 @@
 "blob":
 "20329c35-ad1b-4317-8152-1a8b9ea0ecf8",
 "created":
-"2023-06-30T20:30:41.256654+00:00",
+"2023-06-30T20:30:41.256654Z",
 "metadata":
 {
 "@context":
@@ -6544,7 +6544,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:30:41.299736+00:00",
+"2023-06-30T20:30:41.299736Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch24.timd/Ch24-000000.segd/Ch24-000000.tdat",
 "size":
@@ -6556,7 +6556,7 @@
 "blob":
 "047073f0-0f2e-42c0-ba46-58b64f0e96e2",
 "created":
-"2023-06-30T20:30:43.378139+00:00",
+"2023-06-30T20:30:43.378139Z",
 "metadata":
 {
 "@context":
@@ -6663,7 +6663,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:30:43.417076+00:00",
+"2023-06-30T20:30:43.417076Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch24.timd/Ch24-000000.segd/Ch24-000000.tidx",
 "size":
@@ -6675,7 +6675,7 @@
 "blob":
 "2a04aebd-50a0-4813-ab91-1175ed3f3cac",
 "created":
-"2023-06-30T20:30:46.548504+00:00",
+"2023-06-30T20:30:46.548504Z",
 "metadata":
 {
 "@context":
@@ -6782,7 +6782,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:30:46.584361+00:00",
+"2023-06-30T20:30:46.584361Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch24.timd/Ch24-000000.segd/Ch24-000000.tmet",
 "size":
@@ -6794,7 +6794,7 @@
 "blob":
 "3f5cf099-8e3f-4a0c-9199-fa064c1fe6f3",
 "created":
-"2023-06-30T20:30:48.760933+00:00",
+"2023-06-30T20:30:48.760933Z",
 "metadata":
 {
 "@context":
@@ -6901,7 +6901,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:30:48.804062+00:00",
+"2023-06-30T20:30:48.804062Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch25.timd/Ch25-000000.segd/Ch25-000000.tdat",
 "size":
@@ -6913,7 +6913,7 @@
 "blob":
 "c7c25c48-2bdd-4280-94ed-73a464d1e562",
 "created":
-"2023-06-30T20:30:49.333052+00:00",
+"2023-06-30T20:30:49.333052Z",
 "metadata":
 {
 "@context":
@@ -7020,7 +7020,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:30:49.372381+00:00",
+"2023-06-30T20:30:49.372381Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch25.timd/Ch25-000000.segd/Ch25-000000.tidx",
 "size":
@@ -7032,7 +7032,7 @@
 "blob":
 "47cfce2b-f994-4141-b650-17990e4ff59f",
 "created":
-"2023-06-30T20:30:51.123330+00:00",
+"2023-06-30T20:30:51.123330Z",
 "metadata":
 {
 "@context":
@@ -7139,7 +7139,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:30:51.166101+00:00",
+"2023-06-30T20:30:51.166101Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch25.timd/Ch25-000000.segd/Ch25-000000.tmet",
 "size":
@@ -7151,7 +7151,7 @@
 "blob":
 "b2dba71d-de58-4770-8d50-8b8cace423c6",
 "created":
-"2023-06-30T20:30:53.541052+00:00",
+"2023-06-30T20:30:53.541052Z",
 "metadata":
 {
 "@context":
@@ -7258,7 +7258,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:30:53.575488+00:00",
+"2023-06-30T20:30:53.575488Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch26.timd/Ch26-000000.segd/Ch26-000000.tdat",
 "size":
@@ -7270,7 +7270,7 @@
 "blob":
 "3dd3eb91-f702-4070-b5df-cb1790049d35",
 "created":
-"2023-06-30T20:30:56.090971+00:00",
+"2023-06-30T20:30:56.090971Z",
 "metadata":
 {
 "@context":
@@ -7377,7 +7377,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:30:56.134330+00:00",
+"2023-06-30T20:30:56.134330Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch26.timd/Ch26-000000.segd/Ch26-000000.tidx",
 "size":
@@ -7389,7 +7389,7 @@
 "blob":
 "6ccd842c-6e47-473c-8f85-94a4c4fced5c",
 "created":
-"2023-06-30T20:30:58.839131+00:00",
+"2023-06-30T20:30:58.839131Z",
 "metadata":
 {
 "@context":
@@ -7496,7 +7496,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:30:58.873327+00:00",
+"2023-06-30T20:30:58.873327Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch26.timd/Ch26-000000.segd/Ch26-000000.tmet",
 "size":
@@ -7508,7 +7508,7 @@
 "blob":
 "08fdbc77-bd30-457d-b4a2-a4c66813f6dc",
 "created":
-"2023-06-30T20:30:59.671556+00:00",
+"2023-06-30T20:30:59.671556Z",
 "metadata":
 {
 "@context":
@@ -7615,7 +7615,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:30:59.710526+00:00",
+"2023-06-30T20:30:59.710526Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch27.timd/Ch27-000000.segd/Ch27-000000.tdat",
 "size":
@@ -7627,7 +7627,7 @@
 "blob":
 "cbb30e72-23ed-4cfc-bc2a-2bec21221f68",
 "created":
-"2023-06-30T20:31:00.149500+00:00",
+"2023-06-30T20:31:00.149500Z",
 "metadata":
 {
 "@context":
@@ -7734,7 +7734,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:31:00.190296+00:00",
+"2023-06-30T20:31:00.190296Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch27.timd/Ch27-000000.segd/Ch27-000000.tidx",
 "size":
@@ -7746,7 +7746,7 @@
 "blob":
 "848e416c-109e-49e8-b302-a3c6d5daa3ac",
 "created":
-"2023-06-30T20:31:03.207853+00:00",
+"2023-06-30T20:31:03.207853Z",
 "metadata":
 {
 "@context":
@@ -7853,7 +7853,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:31:03.257056+00:00",
+"2023-06-30T20:31:03.257056Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch27.timd/Ch27-000000.segd/Ch27-000000.tmet",
 "size":
@@ -7865,7 +7865,7 @@
 "blob":
 "dfc3598d-3301-4384-994f-73bc6ccfa289",
 "created":
-"2023-06-30T20:31:06.557508+00:00",
+"2023-06-30T20:31:06.557508Z",
 "metadata":
 {
 "@context":
@@ -7972,7 +7972,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:31:06.595232+00:00",
+"2023-06-30T20:31:06.595232Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch28.timd/Ch28-000000.segd/Ch28-000000.tdat",
 "size":
@@ -7984,7 +7984,7 @@
 "blob":
 "19c8fd99-a74f-4b3d-9d5a-ccb350c532d3",
 "created":
-"2023-06-30T20:31:08.281685+00:00",
+"2023-06-30T20:31:08.281685Z",
 "metadata":
 {
 "@context":
@@ -8091,7 +8091,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:31:08.339477+00:00",
+"2023-06-30T20:31:08.339477Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch28.timd/Ch28-000000.segd/Ch28-000000.tidx",
 "size":
@@ -8103,7 +8103,7 @@
 "blob":
 "02eec8fa-c317-4765-be76-b614ab1d9658",
 "created":
-"2023-06-30T20:31:08.885494+00:00",
+"2023-06-30T20:31:08.885494Z",
 "metadata":
 {
 "@context":
@@ -8210,7 +8210,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:31:08.928031+00:00",
+"2023-06-30T20:31:08.928031Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch28.timd/Ch28-000000.segd/Ch28-000000.tmet",
 "size":
@@ -8222,7 +8222,7 @@
 "blob":
 "66469d5f-793f-48ce-a50d-a942548dc22f",
 "created":
-"2023-06-30T20:31:10.192223+00:00",
+"2023-06-30T20:31:10.192223Z",
 "metadata":
 {
 "@context":
@@ -8329,7 +8329,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:31:10.228997+00:00",
+"2023-06-30T20:31:10.228997Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch29.timd/Ch29-000000.segd/Ch29-000000.tdat",
 "size":
@@ -8341,7 +8341,7 @@
 "blob":
 "9d5abc53-4871-4e7b-9b7e-0b117f7c1c5f",
 "created":
-"2023-06-30T20:31:12.509642+00:00",
+"2023-06-30T20:31:12.509642Z",
 "metadata":
 {
 "@context":
@@ -8448,7 +8448,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:31:12.585870+00:00",
+"2023-06-30T20:31:12.585870Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch29.timd/Ch29-000000.segd/Ch29-000000.tidx",
 "size":
@@ -8460,7 +8460,7 @@
 "blob":
 "c73a662b-5493-45fd-8168-ec4c1a7458b2",
 "created":
-"2023-06-30T20:31:15.174448+00:00",
+"2023-06-30T20:31:15.174448Z",
 "metadata":
 {
 "@context":
@@ -8567,7 +8567,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:31:15.213434+00:00",
+"2023-06-30T20:31:15.213434Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch29.timd/Ch29-000000.segd/Ch29-000000.tmet",
 "size":
@@ -8579,7 +8579,7 @@
 "blob":
 "39161adb-d665-4a15-b58c-b85698b60499",
 "created":
-"2023-06-30T20:31:18.691192+00:00",
+"2023-06-30T20:31:18.691192Z",
 "metadata":
 {
 "@context":
@@ -8686,7 +8686,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:31:18.726876+00:00",
+"2023-06-30T20:31:18.726876Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch3.timd/Ch3-000000.segd/Ch3-000000.tdat",
 "size":
@@ -8698,7 +8698,7 @@
 "blob":
 "6d4c19cf-3ac4-42a9-a6d8-be4063f6144e",
 "created":
-"2023-06-30T20:31:19.206783+00:00",
+"2023-06-30T20:31:19.206783Z",
 "metadata":
 {
 "@context":
@@ -8805,7 +8805,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:31:19.253226+00:00",
+"2023-06-30T20:31:19.253226Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch3.timd/Ch3-000000.segd/Ch3-000000.tidx",
 "size":
@@ -8817,7 +8817,7 @@
 "blob":
 "7a03fbb0-6f1f-468b-99d2-b3a63f33089c",
 "created":
-"2023-06-30T20:31:21.547669+00:00",
+"2023-06-30T20:31:21.547669Z",
 "metadata":
 {
 "@context":
@@ -8924,7 +8924,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:31:21.585470+00:00",
+"2023-06-30T20:31:21.585470Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch3.timd/Ch3-000000.segd/Ch3-000000.tmet",
 "size":
@@ -8936,7 +8936,7 @@
 "blob":
 "20a81b52-a00a-42ac-b40d-8cd21846ea9f",
 "created":
-"2023-06-30T20:31:23.511342+00:00",
+"2023-06-30T20:31:23.511342Z",
 "metadata":
 {
 "@context":
@@ -9043,7 +9043,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:31:23.553321+00:00",
+"2023-06-30T20:31:23.553321Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch30.timd/Ch30-000000.segd/Ch30-000000.tdat",
 "size":
@@ -9055,7 +9055,7 @@
 "blob":
 "c19810d1-e965-485b-9238-0f5dd2b3cea8",
 "created":
-"2023-06-30T20:31:24.752993+00:00",
+"2023-06-30T20:31:24.752993Z",
 "metadata":
 {
 "@context":
@@ -9162,7 +9162,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:31:24.788048+00:00",
+"2023-06-30T20:31:24.788048Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch30.timd/Ch30-000000.segd/Ch30-000000.tidx",
 "size":
@@ -9174,7 +9174,7 @@
 "blob":
 "4acb63aa-6c29-4f1e-869b-b52262e612d3",
 "created":
-"2023-06-30T20:31:28.068314+00:00",
+"2023-06-30T20:31:28.068314Z",
 "metadata":
 {
 "@context":
@@ -9281,7 +9281,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:31:28.111509+00:00",
+"2023-06-30T20:31:28.111509Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch30.timd/Ch30-000000.segd/Ch30-000000.tmet",
 "size":
@@ -9293,7 +9293,7 @@
 "blob":
 "3ba37269-da42-4713-ba2e-a897e6823233",
 "created":
-"2023-06-30T20:31:28.913285+00:00",
+"2023-06-30T20:31:28.913285Z",
 "metadata":
 {
 "@context":
@@ -9400,7 +9400,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:31:28.955509+00:00",
+"2023-06-30T20:31:28.955509Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch31.timd/Ch31-000000.segd/Ch31-000000.tdat",
 "size":
@@ -9412,7 +9412,7 @@
 "blob":
 "be6c64fe-4e71-4734-ab47-85d7ca2dbbfd",
 "created":
-"2023-06-30T20:31:30.995081+00:00",
+"2023-06-30T20:31:30.995081Z",
 "metadata":
 {
 "@context":
@@ -9519,7 +9519,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:31:31.038131+00:00",
+"2023-06-30T20:31:31.038131Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch31.timd/Ch31-000000.segd/Ch31-000000.tidx",
 "size":
@@ -9531,7 +9531,7 @@
 "blob":
 "020055d4-581b-4c91-ab0f-8d047bbf6200",
 "created":
-"2023-06-30T20:31:33.515603+00:00",
+"2023-06-30T20:31:33.515603Z",
 "metadata":
 {
 "@context":
@@ -9638,7 +9638,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:31:33.555731+00:00",
+"2023-06-30T20:31:33.555731Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch31.timd/Ch31-000000.segd/Ch31-000000.tmet",
 "size":
@@ -9650,7 +9650,7 @@
 "blob":
 "a007b4c7-a588-4b09-aee1-23c1e9fd0691",
 "created":
-"2023-06-30T20:31:36.179314+00:00",
+"2023-06-30T20:31:36.179314Z",
 "metadata":
 {
 "@context":
@@ -9757,7 +9757,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:31:36.215689+00:00",
+"2023-06-30T20:31:36.215689Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch4.timd/Ch4-000000.segd/Ch4-000000.tdat",
 "size":
@@ -9769,7 +9769,7 @@
 "blob":
 "01ad1a3b-2ec7-466c-a440-c2998fb73717",
 "created":
-"2023-06-30T20:31:38.804784+00:00",
+"2023-06-30T20:31:38.804784Z",
 "metadata":
 {
 "@context":
@@ -9876,7 +9876,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:31:38.843459+00:00",
+"2023-06-30T20:31:38.843459Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch4.timd/Ch4-000000.segd/Ch4-000000.tidx",
 "size":
@@ -9888,7 +9888,7 @@
 "blob":
 "d192b2a4-49e3-4867-8776-dc5550b6f98b",
 "created":
-"2023-06-30T20:31:39.187503+00:00",
+"2023-06-30T20:31:39.187503Z",
 "metadata":
 {
 "@context":
@@ -9995,7 +9995,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:31:39.226343+00:00",
+"2023-06-30T20:31:39.226343Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch4.timd/Ch4-000000.segd/Ch4-000000.tmet",
 "size":
@@ -10007,7 +10007,7 @@
 "blob":
 "3580ab86-5d2b-4358-bdc9-3f7ea001b6fd",
 "created":
-"2023-06-30T20:31:40.725905+00:00",
+"2023-06-30T20:31:40.725905Z",
 "metadata":
 {
 "@context":
@@ -10114,7 +10114,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:31:40.764152+00:00",
+"2023-06-30T20:31:40.764152Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch5.timd/Ch5-000000.segd/Ch5-000000.tdat",
 "size":
@@ -10126,7 +10126,7 @@
 "blob":
 "a19c7322-07b3-4759-b7d4-2b5c356fae07",
 "created":
-"2023-06-30T20:31:42.599903+00:00",
+"2023-06-30T20:31:42.599903Z",
 "metadata":
 {
 "@context":
@@ -10233,7 +10233,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:31:42.641340+00:00",
+"2023-06-30T20:31:42.641340Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch5.timd/Ch5-000000.segd/Ch5-000000.tidx",
 "size":
@@ -10245,7 +10245,7 @@
 "blob":
 "0efc5390-ecd7-4b55-a920-f9d91c82a42a",
 "created":
-"2023-06-30T20:31:44.655739+00:00",
+"2023-06-30T20:31:44.655739Z",
 "metadata":
 {
 "@context":
@@ -10352,7 +10352,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:31:44.693150+00:00",
+"2023-06-30T20:31:44.693150Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch5.timd/Ch5-000000.segd/Ch5-000000.tmet",
 "size":
@@ -10364,7 +10364,7 @@
 "blob":
 "66528fb2-d9fe-4999-9f44-16c602adff19",
 "created":
-"2023-06-30T20:31:48.929702+00:00",
+"2023-06-30T20:31:48.929702Z",
 "metadata":
 {
 "@context":
@@ -10471,7 +10471,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:31:48.977078+00:00",
+"2023-06-30T20:31:48.977078Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch6.timd/Ch6-000000.segd/Ch6-000000.tdat",
 "size":
@@ -10483,7 +10483,7 @@
 "blob":
 "faadb1f4-c00e-4578-bf1c-41d77eeb218d",
 "created":
-"2023-06-30T20:31:48.503178+00:00",
+"2023-06-30T20:31:48.503178Z",
 "metadata":
 {
 "@context":
@@ -10590,7 +10590,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:31:48.545914+00:00",
+"2023-06-30T20:31:48.545914Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch6.timd/Ch6-000000.segd/Ch6-000000.tidx",
 "size":
@@ -10602,7 +10602,7 @@
 "blob":
 "3902a375-9ddc-4f41-92ce-1107957ec955",
 "created":
-"2023-06-30T20:31:50.913320+00:00",
+"2023-06-30T20:31:50.913320Z",
 "metadata":
 {
 "@context":
@@ -10709,7 +10709,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:31:50.949412+00:00",
+"2023-06-30T20:31:50.949412Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch6.timd/Ch6-000000.segd/Ch6-000000.tmet",
 "size":
@@ -10721,7 +10721,7 @@
 "blob":
 "feeff818-9161-44a3-9705-24891a05c287",
 "created":
-"2023-06-30T20:31:53.280332+00:00",
+"2023-06-30T20:31:53.280332Z",
 "metadata":
 {
 "@context":
@@ -10828,7 +10828,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:31:53.323844+00:00",
+"2023-06-30T20:31:53.323844Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch7.timd/Ch7-000000.segd/Ch7-000000.tdat",
 "size":
@@ -10840,7 +10840,7 @@
 "blob":
 "efae483e-a3b1-4134-8ea7-45adc7c82940",
 "created":
-"2023-06-30T20:31:56.297361+00:00",
+"2023-06-30T20:31:56.297361Z",
 "metadata":
 {
 "@context":
@@ -10947,7 +10947,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:31:56.333412+00:00",
+"2023-06-30T20:31:56.333412Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch7.timd/Ch7-000000.segd/Ch7-000000.tidx",
 "size":
@@ -10959,7 +10959,7 @@
 "blob":
 "9c6e7224-206b-4456-893b-f4af40d2e554",
 "created":
-"2023-06-30T20:32:00.759488+00:00",
+"2023-06-30T20:32:00.759488Z",
 "metadata":
 {
 "@context":
@@ -11066,7 +11066,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:32:00.802438+00:00",
+"2023-06-30T20:32:00.802438Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch7.timd/Ch7-000000.segd/Ch7-000000.tmet",
 "size":
@@ -11078,7 +11078,7 @@
 "blob":
 "e077e65a-8893-4740-a8ca-33d522e4df8a",
 "created":
-"2023-06-30T20:32:01.302872+00:00",
+"2023-06-30T20:32:01.302872Z",
 "metadata":
 {
 "@context":
@@ -11185,7 +11185,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:32:01.343768+00:00",
+"2023-06-30T20:32:01.343768Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch8.timd/Ch8-000000.segd/Ch8-000000.tdat",
 "size":
@@ -11197,7 +11197,7 @@
 "blob":
 "c413342e-44db-4aaa-9329-5066dea2b5d1",
 "created":
-"2023-06-30T20:32:01.998234+00:00",
+"2023-06-30T20:32:01.998234Z",
 "metadata":
 {
 "@context":
@@ -11304,7 +11304,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:32:02.041492+00:00",
+"2023-06-30T20:32:02.041492Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch8.timd/Ch8-000000.segd/Ch8-000000.tidx",
 "size":
@@ -11316,7 +11316,7 @@
 "blob":
 "598c2b74-fcb9-459e-9d80-870f2cded14a",
 "created":
-"2023-06-30T20:32:04.567207+00:00",
+"2023-06-30T20:32:04.567207Z",
 "metadata":
 {
 "@context":
@@ -11423,7 +11423,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:32:04.605508+00:00",
+"2023-06-30T20:32:04.605508Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch8.timd/Ch8-000000.segd/Ch8-000000.tmet",
 "size":
@@ -11435,7 +11435,7 @@
 "blob":
 "e7fc1dce-1b12-42f0-b635-972567227ca0",
 "created":
-"2023-06-30T20:32:06.318861+00:00",
+"2023-06-30T20:32:06.318861Z",
 "metadata":
 {
 "@context":
@@ -11542,7 +11542,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:32:06.368529+00:00",
+"2023-06-30T20:32:06.368529Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch9.timd/Ch9-000000.segd/Ch9-000000.tdat",
 "size":
@@ -11554,7 +11554,7 @@
 "blob":
 "1669466c-d2b4-4dbc-9551-e69c9c8450b8",
 "created":
-"2023-06-30T20:32:09.702789+00:00",
+"2023-06-30T20:32:09.702789Z",
 "metadata":
 {
 "@context":
@@ -11661,7 +11661,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:32:09.740996+00:00",
+"2023-06-30T20:32:09.740996Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch9.timd/Ch9-000000.segd/Ch9-000000.tidx",
 "size":
@@ -11673,7 +11673,7 @@
 "blob":
 "6255de58-2b9e-4ed8-b184-278b21d41904",
 "created":
-"2023-06-30T20:32:10.354465+00:00",
+"2023-06-30T20:32:10.354465Z",
 "metadata":
 {
 "@context":
@@ -11780,7 +11780,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:32:10.390769+00:00",
+"2023-06-30T20:32:10.390769Z",
 "path":
 "sub-c02/ses-intraop01/ieeg/sub-c02_ses-intraop01_acq-ref1_ieeg.mefd/Ch9.timd/Ch9-000000.segd/Ch9-000000.tmet",
 "size":
@@ -11792,7 +11792,7 @@
 "blob":
 "8be1e711-e759-4869-9cf5-cdb832098f2b",
 "created":
-"2023-06-30T20:32:10.739912+00:00",
+"2023-06-30T20:32:10.739912Z",
 "metadata":
 {
 "@context":
@@ -11916,7 +11916,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:32:10.776612+00:00",
+"2023-06-30T20:32:10.776612Z",
 "path":
 "sub-c02/ses-plan/anat/sub-c02_ses-plan_acq-preContrast_T1w.json",
 "size":
@@ -11928,7 +11928,7 @@
 "blob":
 "13e397d8-d0b4-444d-9cb5-c20dd160cbf3",
 "created":
-"2023-06-30T20:32:28.132223+00:00",
+"2023-06-30T20:32:28.132223Z",
 "metadata":
 {
 "@context":
@@ -12052,7 +12052,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:32:29.473301+00:00",
+"2023-06-30T20:32:29.473301Z",
 "path":
 "sub-c02/ses-plan/anat/sub-c02_ses-plan_acq-preContrast_T1w.nii",
 "size":
@@ -12064,7 +12064,7 @@
 "blob":
 "5a123a39-173c-483b-8c7c-57f49984d293",
 "created":
-"2023-06-30T20:32:15.256966+00:00",
+"2023-06-30T20:32:15.256966Z",
 "metadata":
 {
 "@context":
@@ -12188,7 +12188,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:32:15.292672+00:00",
+"2023-06-30T20:32:15.292672Z",
 "path":
 "sub-c02/ses-plan/sub-c02_ses-plan_scans.json",
 "size":
@@ -12200,7 +12200,7 @@
 "blob":
 "0c277b09-ca13-48dc-ab72-0954e80700ab",
 "created":
-"2023-06-30T20:32:18.073259+00:00",
+"2023-06-30T20:32:18.073259Z",
 "metadata":
 {
 "@context":
@@ -12324,7 +12324,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:32:18.107871+00:00",
+"2023-06-30T20:32:18.107871Z",
 "path":
 "sub-c02/ses-plan/sub-c02_ses-plan_scans.tsv",
 "size":
@@ -12336,7 +12336,7 @@
 "blob":
 "07ede418-e6b1-4165-ae1b-3e6450998c87",
 "created":
-"2023-06-30T20:32:20.234830+00:00",
+"2023-06-30T20:32:20.234830Z",
 "metadata":
 {
 "@context":
@@ -12443,7 +12443,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:32:20.270781+00:00",
+"2023-06-30T20:32:20.270781Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch0.timd/Ch0-000000.segd/Ch0-000000.tdat",
 "size":
@@ -12455,7 +12455,7 @@
 "blob":
 "0a1cc571-d502-4429-bf46-2e7c72e00e03",
 "created":
-"2023-06-30T20:32:19.619008+00:00",
+"2023-06-30T20:32:19.619008Z",
 "metadata":
 {
 "@context":
@@ -12562,7 +12562,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:32:19.656728+00:00",
+"2023-06-30T20:32:19.656728Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch0.timd/Ch0-000000.segd/Ch0-000000.tidx",
 "size":
@@ -12574,7 +12574,7 @@
 "blob":
 "a05e482e-d327-4820-a887-19110aece935",
 "created":
-"2023-06-30T20:32:24.688272+00:00",
+"2023-06-30T20:32:24.688272Z",
 "metadata":
 {
 "@context":
@@ -12681,7 +12681,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:32:24.723253+00:00",
+"2023-06-30T20:32:24.723253Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch0.timd/Ch0-000000.segd/Ch0-000000.tmet",
 "size":
@@ -12693,7 +12693,7 @@
 "blob":
 "dcd3ebf1-96e3-43e0-8d64-6295ab50c913",
 "created":
-"2023-06-30T20:32:27.323175+00:00",
+"2023-06-30T20:32:27.323175Z",
 "metadata":
 {
 "@context":
@@ -12800,7 +12800,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:32:27.359858+00:00",
+"2023-06-30T20:32:27.359858Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch1.timd/Ch1-000000.segd/Ch1-000000.tdat",
 "size":
@@ -12812,7 +12812,7 @@
 "blob":
 "c92faf5f-992a-4fc6-84f2-4fcea2d158cb",
 "created":
-"2023-06-30T20:32:28.397677+00:00",
+"2023-06-30T20:32:28.397677Z",
 "metadata":
 {
 "@context":
@@ -12919,7 +12919,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:32:28.435950+00:00",
+"2023-06-30T20:32:28.435950Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch1.timd/Ch1-000000.segd/Ch1-000000.tidx",
 "size":
@@ -12931,7 +12931,7 @@
 "blob":
 "be4ed2be-869d-42c5-b096-68e4885bb841",
 "created":
-"2023-06-30T20:32:29.163014+00:00",
+"2023-06-30T20:32:29.163014Z",
 "metadata":
 {
 "@context":
@@ -13038,7 +13038,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:32:29.216101+00:00",
+"2023-06-30T20:32:29.216101Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch1.timd/Ch1-000000.segd/Ch1-000000.tmet",
 "size":
@@ -13050,7 +13050,7 @@
 "blob":
 "34787870-a797-4b92-a385-8278808e4f61",
 "created":
-"2023-06-30T20:32:33.481182+00:00",
+"2023-06-30T20:32:33.481182Z",
 "metadata":
 {
 "@context":
@@ -13157,7 +13157,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:32:33.523810+00:00",
+"2023-06-30T20:32:33.523810Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch10.timd/Ch10-000000.segd/Ch10-000000.tdat",
 "size":
@@ -13169,7 +13169,7 @@
 "blob":
 "127373a3-7d79-4bf8-92a0-43c2e062aa5c",
 "created":
-"2023-06-30T20:32:36.280160+00:00",
+"2023-06-30T20:32:36.280160Z",
 "metadata":
 {
 "@context":
@@ -13276,7 +13276,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:32:36.317299+00:00",
+"2023-06-30T20:32:36.317299Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch10.timd/Ch10-000000.segd/Ch10-000000.tidx",
 "size":
@@ -13288,7 +13288,7 @@
 "blob":
 "50c78610-84ff-4f97-954d-f027199e36a2",
 "created":
-"2023-06-30T20:32:37.929183+00:00",
+"2023-06-30T20:32:37.929183Z",
 "metadata":
 {
 "@context":
@@ -13395,7 +13395,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:32:37.966074+00:00",
+"2023-06-30T20:32:37.966074Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch10.timd/Ch10-000000.segd/Ch10-000000.tmet",
 "size":
@@ -13407,7 +13407,7 @@
 "blob":
 "e218eb23-2160-4480-bf4a-ca3f9aff7b3c",
 "created":
-"2023-06-30T20:32:38.396442+00:00",
+"2023-06-30T20:32:38.396442Z",
 "metadata":
 {
 "@context":
@@ -13514,7 +13514,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:32:38.430804+00:00",
+"2023-06-30T20:32:38.430804Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch11.timd/Ch11-000000.segd/Ch11-000000.tdat",
 "size":
@@ -13526,7 +13526,7 @@
 "blob":
 "45ea6181-821f-4103-a629-b61ed7d8ed35",
 "created":
-"2023-06-30T20:32:39.223727+00:00",
+"2023-06-30T20:32:39.223727Z",
 "metadata":
 {
 "@context":
@@ -13633,7 +13633,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:32:39.258043+00:00",
+"2023-06-30T20:32:39.258043Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch11.timd/Ch11-000000.segd/Ch11-000000.tidx",
 "size":
@@ -13645,7 +13645,7 @@
 "blob":
 "056e9c22-c288-4f63-80f0-ff9a6ea647ab",
 "created":
-"2023-06-30T20:32:43.575043+00:00",
+"2023-06-30T20:32:43.575043Z",
 "metadata":
 {
 "@context":
@@ -13752,7 +13752,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:32:43.619596+00:00",
+"2023-06-30T20:32:43.619596Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch11.timd/Ch11-000000.segd/Ch11-000000.tmet",
 "size":
@@ -13764,7 +13764,7 @@
 "blob":
 "96ed0ce3-5517-48b8-bb59-4a68cf5a70ba",
 "created":
-"2023-06-30T20:32:46.753481+00:00",
+"2023-06-30T20:32:46.753481Z",
 "metadata":
 {
 "@context":
@@ -13871,7 +13871,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:32:46.793709+00:00",
+"2023-06-30T20:32:46.793709Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch12.timd/Ch12-000000.segd/Ch12-000000.tdat",
 "size":
@@ -13883,7 +13883,7 @@
 "blob":
 "289d95a1-cbd4-443a-89d4-14e5f77f4069",
 "created":
-"2023-06-30T20:32:48.921790+00:00",
+"2023-06-30T20:32:48.921790Z",
 "metadata":
 {
 "@context":
@@ -13990,7 +13990,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:32:48.955870+00:00",
+"2023-06-30T20:32:48.955870Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch12.timd/Ch12-000000.segd/Ch12-000000.tidx",
 "size":
@@ -14002,7 +14002,7 @@
 "blob":
 "f11a4ff6-7658-4173-9581-2823a29be895",
 "created":
-"2023-06-30T20:32:49.645121+00:00",
+"2023-06-30T20:32:49.645121Z",
 "metadata":
 {
 "@context":
@@ -14109,7 +14109,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:32:49.682726+00:00",
+"2023-06-30T20:32:49.682726Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch12.timd/Ch12-000000.segd/Ch12-000000.tmet",
 "size":
@@ -14121,7 +14121,7 @@
 "blob":
 "0021e47f-5668-47d9-ac57-2f6202f845fa",
 "created":
-"2023-06-30T20:32:51.973752+00:00",
+"2023-06-30T20:32:51.973752Z",
 "metadata":
 {
 "@context":
@@ -14228,7 +14228,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:32:52.007166+00:00",
+"2023-06-30T20:32:52.007166Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch13.timd/Ch13-000000.segd/Ch13-000000.tdat",
 "size":
@@ -14240,7 +14240,7 @@
 "blob":
 "ba0f3472-128f-4c55-9513-b57c1589f6cf",
 "created":
-"2023-06-30T20:32:54.344294+00:00",
+"2023-06-30T20:32:54.344294Z",
 "metadata":
 {
 "@context":
@@ -14347,7 +14347,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:32:54.379292+00:00",
+"2023-06-30T20:32:54.379292Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch13.timd/Ch13-000000.segd/Ch13-000000.tidx",
 "size":
@@ -14359,7 +14359,7 @@
 "blob":
 "642ccb6b-f390-4469-84b8-f2fa176afa5e",
 "created":
-"2023-06-30T20:32:59.338167+00:00",
+"2023-06-30T20:32:59.338167Z",
 "metadata":
 {
 "@context":
@@ -14466,7 +14466,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:32:59.372876+00:00",
+"2023-06-30T20:32:59.372876Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch13.timd/Ch13-000000.segd/Ch13-000000.tmet",
 "size":
@@ -14478,7 +14478,7 @@
 "blob":
 "ca3eb888-6b2a-4ab5-afca-49c1d2cb8a59",
 "created":
-"2023-06-30T20:33:00.403067+00:00",
+"2023-06-30T20:33:00.403067Z",
 "metadata":
 {
 "@context":
@@ -14585,7 +14585,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:33:00.444321+00:00",
+"2023-06-30T20:33:00.444321Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch14.timd/Ch14-000000.segd/Ch14-000000.tdat",
 "size":
@@ -14597,7 +14597,7 @@
 "blob":
 "23988772-741e-48a6-a5c4-223e26038f90",
 "created":
-"2023-06-30T20:33:01.153112+00:00",
+"2023-06-30T20:33:01.153112Z",
 "metadata":
 {
 "@context":
@@ -14704,7 +14704,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:33:01.193252+00:00",
+"2023-06-30T20:33:01.193252Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch14.timd/Ch14-000000.segd/Ch14-000000.tidx",
 "size":
@@ -14716,7 +14716,7 @@
 "blob":
 "e052adae-fe4f-4836-8fdf-1f2792c104c8",
 "created":
-"2023-06-30T20:33:03.256367+00:00",
+"2023-06-30T20:33:03.256367Z",
 "metadata":
 {
 "@context":
@@ -14823,7 +14823,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:33:03.290036+00:00",
+"2023-06-30T20:33:03.290036Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch14.timd/Ch14-000000.segd/Ch14-000000.tmet",
 "size":
@@ -14835,7 +14835,7 @@
 "blob":
 "35a75cba-ca19-41dd-85f9-74c24f674875",
 "created":
-"2023-06-30T20:33:05.489317+00:00",
+"2023-06-30T20:33:05.489317Z",
 "metadata":
 {
 "@context":
@@ -14942,7 +14942,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:33:05.526503+00:00",
+"2023-06-30T20:33:05.526503Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch15.timd/Ch15-000000.segd/Ch15-000000.tdat",
 "size":
@@ -14954,7 +14954,7 @@
 "blob":
 "015c0f95-db72-47c1-87ea-865ceefc3a2e",
 "created":
-"2023-06-30T20:33:09.251796+00:00",
+"2023-06-30T20:33:09.251796Z",
 "metadata":
 {
 "@context":
@@ -15061,7 +15061,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:33:09.294971+00:00",
+"2023-06-30T20:33:09.294971Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch15.timd/Ch15-000000.segd/Ch15-000000.tidx",
 "size":
@@ -15073,7 +15073,7 @@
 "blob":
 "cfd77145-89bc-4f32-9376-10736418f640",
 "created":
-"2023-06-30T20:33:11.371599+00:00",
+"2023-06-30T20:33:11.371599Z",
 "metadata":
 {
 "@context":
@@ -15180,7 +15180,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:33:11.413854+00:00",
+"2023-06-30T20:33:11.413854Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch15.timd/Ch15-000000.segd/Ch15-000000.tmet",
 "size":
@@ -15192,7 +15192,7 @@
 "blob":
 "f5f618b9-19d3-4f5e-97f9-17af585f74a2",
 "created":
-"2023-06-30T20:33:12.756902+00:00",
+"2023-06-30T20:33:12.756902Z",
 "metadata":
 {
 "@context":
@@ -15299,7 +15299,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:33:12.794122+00:00",
+"2023-06-30T20:33:12.794122Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch16.timd/Ch16-000000.segd/Ch16-000000.tdat",
 "size":
@@ -15311,7 +15311,7 @@
 "blob":
 "b1aafd64-81d5-48c1-9848-68972a7d9d3e",
 "created":
-"2023-06-30T20:33:15.147035+00:00",
+"2023-06-30T20:33:15.147035Z",
 "metadata":
 {
 "@context":
@@ -15418,7 +15418,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:33:15.184099+00:00",
+"2023-06-30T20:33:15.184099Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch16.timd/Ch16-000000.segd/Ch16-000000.tidx",
 "size":
@@ -15430,7 +15430,7 @@
 "blob":
 "42ad8475-2740-4c05-90bd-04d3aed0fb0a",
 "created":
-"2023-06-30T20:33:18.702679+00:00",
+"2023-06-30T20:33:18.702679Z",
 "metadata":
 {
 "@context":
@@ -15537,7 +15537,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:33:18.737087+00:00",
+"2023-06-30T20:33:18.737087Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch16.timd/Ch16-000000.segd/Ch16-000000.tmet",
 "size":
@@ -15549,7 +15549,7 @@
 "blob":
 "4eab2117-d554-4c9e-adc4-95fa12aa08c0",
 "created":
-"2023-06-30T20:33:32.353590+00:00",
+"2023-06-30T20:33:32.353590Z",
 "metadata":
 {
 "@context":
@@ -15656,7 +15656,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:33:32.390442+00:00",
+"2023-06-30T20:33:32.390442Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch17.timd/Ch17-000000.segd/Ch17-000000.tdat",
 "size":
@@ -15668,7 +15668,7 @@
 "blob":
 "5e6b9c85-78b7-4246-ac16-d321bd953288",
 "created":
-"2023-06-30T20:33:31.300177+00:00",
+"2023-06-30T20:33:31.300177Z",
 "metadata":
 {
 "@context":
@@ -15775,7 +15775,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:33:31.336628+00:00",
+"2023-06-30T20:33:31.336628Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch17.timd/Ch17-000000.segd/Ch17-000000.tidx",
 "size":
@@ -15787,7 +15787,7 @@
 "blob":
 "22e85350-f078-4c1a-9cda-2372f07bd5dc",
 "created":
-"2023-06-30T20:33:36.463217+00:00",
+"2023-06-30T20:33:36.463217Z",
 "metadata":
 {
 "@context":
@@ -15894,7 +15894,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:33:36.504318+00:00",
+"2023-06-30T20:33:36.504318Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch17.timd/Ch17-000000.segd/Ch17-000000.tmet",
 "size":
@@ -15906,7 +15906,7 @@
 "blob":
 "53f3e321-50a7-4a4e-b9e7-7be9afc0db1b",
 "created":
-"2023-06-30T20:33:40.256656+00:00",
+"2023-06-30T20:33:40.256656Z",
 "metadata":
 {
 "@context":
@@ -16013,7 +16013,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:33:40.293482+00:00",
+"2023-06-30T20:33:40.293482Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch18.timd/Ch18-000000.segd/Ch18-000000.tdat",
 "size":
@@ -16025,7 +16025,7 @@
 "blob":
 "00e8bd2a-9793-4b57-8935-0ef1ad98213f",
 "created":
-"2023-06-30T20:33:42.053547+00:00",
+"2023-06-30T20:33:42.053547Z",
 "metadata":
 {
 "@context":
@@ -16132,7 +16132,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:33:42.091914+00:00",
+"2023-06-30T20:33:42.091914Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch18.timd/Ch18-000000.segd/Ch18-000000.tidx",
 "size":
@@ -16144,7 +16144,7 @@
 "blob":
 "11cb749f-c225-40c0-924e-5245f356fae3",
 "created":
-"2023-06-30T20:33:47.478661+00:00",
+"2023-06-30T20:33:47.478661Z",
 "metadata":
 {
 "@context":
@@ -16251,7 +16251,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:33:47.516601+00:00",
+"2023-06-30T20:33:47.516601Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch18.timd/Ch18-000000.segd/Ch18-000000.tmet",
 "size":
@@ -16263,7 +16263,7 @@
 "blob":
 "827e1fce-62b7-4b74-b6c2-a48770d673b0",
 "created":
-"2023-06-30T20:33:47.540959+00:00",
+"2023-06-30T20:33:47.540959Z",
 "metadata":
 {
 "@context":
@@ -16370,7 +16370,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:33:47.580334+00:00",
+"2023-06-30T20:33:47.580334Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch19.timd/Ch19-000000.segd/Ch19-000000.tdat",
 "size":
@@ -16382,7 +16382,7 @@
 "blob":
 "126582b2-fc94-4e44-b414-350e9d9c4cf4",
 "created":
-"2023-06-30T20:33:47.811576+00:00",
+"2023-06-30T20:33:47.811576Z",
 "metadata":
 {
 "@context":
@@ -16489,7 +16489,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:33:47.848984+00:00",
+"2023-06-30T20:33:47.848984Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch19.timd/Ch19-000000.segd/Ch19-000000.tidx",
 "size":
@@ -16501,7 +16501,7 @@
 "blob":
 "32a1548f-35d1-4d52-a223-63d196fae734",
 "created":
-"2023-06-30T20:33:48.586618+00:00",
+"2023-06-30T20:33:48.586618Z",
 "metadata":
 {
 "@context":
@@ -16608,7 +16608,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:33:48.621311+00:00",
+"2023-06-30T20:33:48.621311Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch19.timd/Ch19-000000.segd/Ch19-000000.tmet",
 "size":
@@ -16620,7 +16620,7 @@
 "blob":
 "c0c7e9f7-0ae4-4eda-b419-a850cb408eba",
 "created":
-"2023-06-30T20:33:50.430442+00:00",
+"2023-06-30T20:33:50.430442Z",
 "metadata":
 {
 "@context":
@@ -16727,7 +16727,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:33:50.470766+00:00",
+"2023-06-30T20:33:50.470766Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch2.timd/Ch2-000000.segd/Ch2-000000.tdat",
 "size":
@@ -16739,7 +16739,7 @@
 "blob":
 "506e9c33-13c8-4e88-94c1-4e8ba8af0be7",
 "created":
-"2023-06-30T20:33:55.507466+00:00",
+"2023-06-30T20:33:55.507466Z",
 "metadata":
 {
 "@context":
@@ -16846,7 +16846,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:33:55.565832+00:00",
+"2023-06-30T20:33:55.565832Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch2.timd/Ch2-000000.segd/Ch2-000000.tidx",
 "size":
@@ -16858,7 +16858,7 @@
 "blob":
 "db7009e1-d485-4161-924b-1c0236a9185f",
 "created":
-"2023-06-30T20:33:56.538448+00:00",
+"2023-06-30T20:33:56.538448Z",
 "metadata":
 {
 "@context":
@@ -16965,7 +16965,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:33:56.574126+00:00",
+"2023-06-30T20:33:56.574126Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch2.timd/Ch2-000000.segd/Ch2-000000.tmet",
 "size":
@@ -16977,7 +16977,7 @@
 "blob":
 "3615cc1e-e7d6-4156-a294-2c0d2423ecd7",
 "created":
-"2023-06-30T20:33:56.681811+00:00",
+"2023-06-30T20:33:56.681811Z",
 "metadata":
 {
 "@context":
@@ -17084,7 +17084,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:33:56.717820+00:00",
+"2023-06-30T20:33:56.717820Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch20.timd/Ch20-000000.segd/Ch20-000000.tdat",
 "size":
@@ -17096,7 +17096,7 @@
 "blob":
 "3303eb5c-77aa-4e15-9b61-99b3342c0dda",
 "created":
-"2023-06-30T20:33:56.756566+00:00",
+"2023-06-30T20:33:56.756566Z",
 "metadata":
 {
 "@context":
@@ -17203,7 +17203,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:33:56.794208+00:00",
+"2023-06-30T20:33:56.794208Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch20.timd/Ch20-000000.segd/Ch20-000000.tidx",
 "size":
@@ -17215,7 +17215,7 @@
 "blob":
 "2acece13-89b2-440f-bdbf-540cab3dfd89",
 "created":
-"2023-06-30T20:33:58.110245+00:00",
+"2023-06-30T20:33:58.110245Z",
 "metadata":
 {
 "@context":
@@ -17322,7 +17322,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:33:58.147698+00:00",
+"2023-06-30T20:33:58.147698Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch20.timd/Ch20-000000.segd/Ch20-000000.tmet",
 "size":
@@ -17334,7 +17334,7 @@
 "blob":
 "f14f0219-3eb1-4dde-8d02-9ad4a01501c6",
 "created":
-"2023-06-30T20:34:04.819367+00:00",
+"2023-06-30T20:34:04.819367Z",
 "metadata":
 {
 "@context":
@@ -17441,7 +17441,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:34:04.852417+00:00",
+"2023-06-30T20:34:04.852417Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch21.timd/Ch21-000000.segd/Ch21-000000.tdat",
 "size":
@@ -17453,7 +17453,7 @@
 "blob":
 "a1dc65ec-61d0-4bc8-a66a-edabed6f3007",
 "created":
-"2023-06-30T20:34:05.812307+00:00",
+"2023-06-30T20:34:05.812307Z",
 "metadata":
 {
 "@context":
@@ -17560,7 +17560,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:34:05.847903+00:00",
+"2023-06-30T20:34:05.847903Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch21.timd/Ch21-000000.segd/Ch21-000000.tidx",
 "size":
@@ -17572,7 +17572,7 @@
 "blob":
 "5c5f61c2-1d61-4864-a427-93372729b64f",
 "created":
-"2023-06-30T20:34:06.636684+00:00",
+"2023-06-30T20:34:06.636684Z",
 "metadata":
 {
 "@context":
@@ -17679,7 +17679,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:34:06.671639+00:00",
+"2023-06-30T20:34:06.671639Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch21.timd/Ch21-000000.segd/Ch21-000000.tmet",
 "size":
@@ -17691,7 +17691,7 @@
 "blob":
 "3f501028-6698-418d-8f8b-756055b80214",
 "created":
-"2023-06-30T20:34:07.103303+00:00",
+"2023-06-30T20:34:07.103303Z",
 "metadata":
 {
 "@context":
@@ -17798,7 +17798,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:34:07.138223+00:00",
+"2023-06-30T20:34:07.138223Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch22.timd/Ch22-000000.segd/Ch22-000000.tdat",
 "size":
@@ -17810,7 +17810,7 @@
 "blob":
 "83c78e47-4885-4890-b05e-5979ab8804b0",
 "created":
-"2023-06-30T20:34:08.080897+00:00",
+"2023-06-30T20:34:08.080897Z",
 "metadata":
 {
 "@context":
@@ -17917,7 +17917,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:34:08.120287+00:00",
+"2023-06-30T20:34:08.120287Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch22.timd/Ch22-000000.segd/Ch22-000000.tidx",
 "size":
@@ -17929,7 +17929,7 @@
 "blob":
 "ae3a147e-ea61-4743-ba27-64c3200a3a1d",
 "created":
-"2023-06-30T20:34:12.421736+00:00",
+"2023-06-30T20:34:12.421736Z",
 "metadata":
 {
 "@context":
@@ -18036,7 +18036,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:34:12.459052+00:00",
+"2023-06-30T20:34:12.459052Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch22.timd/Ch22-000000.segd/Ch22-000000.tmet",
 "size":
@@ -18048,7 +18048,7 @@
 "blob":
 "87c9cd6c-669f-4c62-b2bc-79b882005525",
 "created":
-"2023-06-30T20:34:14.336574+00:00",
+"2023-06-30T20:34:14.336574Z",
 "metadata":
 {
 "@context":
@@ -18155,7 +18155,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:34:14.373121+00:00",
+"2023-06-30T20:34:14.373121Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch23.timd/Ch23-000000.segd/Ch23-000000.tdat",
 "size":
@@ -18167,7 +18167,7 @@
 "blob":
 "79a52113-b495-4ebe-a481-402f969a0c6b",
 "created":
-"2023-06-30T20:34:15.981403+00:00",
+"2023-06-30T20:34:15.981403Z",
 "metadata":
 {
 "@context":
@@ -18274,7 +18274,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:34:16.027841+00:00",
+"2023-06-30T20:34:16.027841Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch23.timd/Ch23-000000.segd/Ch23-000000.tidx",
 "size":
@@ -18286,7 +18286,7 @@
 "blob":
 "fbd98f15-4b31-4c69-879b-045badfe3daf",
 "created":
-"2023-06-30T20:34:17.098257+00:00",
+"2023-06-30T20:34:17.098257Z",
 "metadata":
 {
 "@context":
@@ -18393,7 +18393,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:34:17.139595+00:00",
+"2023-06-30T20:34:17.139595Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch23.timd/Ch23-000000.segd/Ch23-000000.tmet",
 "size":
@@ -18405,7 +18405,7 @@
 "blob":
 "b726ac45-8c96-4019-8369-419e8eac6023",
 "created":
-"2023-06-30T20:34:18.629739+00:00",
+"2023-06-30T20:34:18.629739Z",
 "metadata":
 {
 "@context":
@@ -18512,7 +18512,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:34:18.667480+00:00",
+"2023-06-30T20:34:18.667480Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch24.timd/Ch24-000000.segd/Ch24-000000.tdat",
 "size":
@@ -18524,7 +18524,7 @@
 "blob":
 "484e7409-b9aa-4d23-bc6f-4c6d3e924c43",
 "created":
-"2023-06-30T20:34:23.775619+00:00",
+"2023-06-30T20:34:23.775619Z",
 "metadata":
 {
 "@context":
@@ -18631,7 +18631,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:34:23.818547+00:00",
+"2023-06-30T20:34:23.818547Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch24.timd/Ch24-000000.segd/Ch24-000000.tidx",
 "size":
@@ -18643,7 +18643,7 @@
 "blob":
 "fe762c66-fd37-4bb6-b88d-2d17af2659d2",
 "created":
-"2023-06-30T20:34:26.175953+00:00",
+"2023-06-30T20:34:26.175953Z",
 "metadata":
 {
 "@context":
@@ -18750,7 +18750,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:34:26.209903+00:00",
+"2023-06-30T20:34:26.209903Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch24.timd/Ch24-000000.segd/Ch24-000000.tmet",
 "size":
@@ -18762,7 +18762,7 @@
 "blob":
 "ebe456c0-71bf-43f9-a973-b784b955f6da",
 "created":
-"2023-06-30T20:34:28.319507+00:00",
+"2023-06-30T20:34:28.319507Z",
 "metadata":
 {
 "@context":
@@ -18869,7 +18869,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:34:28.357080+00:00",
+"2023-06-30T20:34:28.357080Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch25.timd/Ch25-000000.segd/Ch25-000000.tdat",
 "size":
@@ -18881,7 +18881,7 @@
 "blob":
 "ad02f680-8953-4914-a338-c3d60aa39a61",
 "created":
-"2023-06-30T20:34:29.235644+00:00",
+"2023-06-30T20:34:29.235644Z",
 "metadata":
 {
 "@context":
@@ -18988,7 +18988,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:34:29.273367+00:00",
+"2023-06-30T20:34:29.273367Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch25.timd/Ch25-000000.segd/Ch25-000000.tidx",
 "size":
@@ -19000,7 +19000,7 @@
 "blob":
 "02eea1b9-0b0a-4f2c-a020-5b86ec2b5598",
 "created":
-"2023-06-30T20:34:29.623303+00:00",
+"2023-06-30T20:34:29.623303Z",
 "metadata":
 {
 "@context":
@@ -19107,7 +19107,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:34:29.657556+00:00",
+"2023-06-30T20:34:29.657556Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch25.timd/Ch25-000000.segd/Ch25-000000.tmet",
 "size":
@@ -19119,7 +19119,7 @@
 "blob":
 "884bf1b7-d220-441f-bf29-57d02d75c4a4",
 "created":
-"2023-06-30T20:34:33.384380+00:00",
+"2023-06-30T20:34:33.384380Z",
 "metadata":
 {
 "@context":
@@ -19226,7 +19226,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:34:33.422376+00:00",
+"2023-06-30T20:34:33.422376Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch26.timd/Ch26-000000.segd/Ch26-000000.tdat",
 "size":
@@ -19238,7 +19238,7 @@
 "blob":
 "f4b9711e-e22f-48f7-8636-86407cd5292f",
 "created":
-"2023-06-30T20:34:34.974722+00:00",
+"2023-06-30T20:34:34.974722Z",
 "metadata":
 {
 "@context":
@@ -19345,7 +19345,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:34:35.009138+00:00",
+"2023-06-30T20:34:35.009138Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch26.timd/Ch26-000000.segd/Ch26-000000.tidx",
 "size":
@@ -19357,7 +19357,7 @@
 "blob":
 "19000ffc-caaa-4b33-acc2-99dbb25bc837",
 "created":
-"2023-06-30T20:34:36.664742+00:00",
+"2023-06-30T20:34:36.664742Z",
 "metadata":
 {
 "@context":
@@ -19464,7 +19464,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:34:36.712622+00:00",
+"2023-06-30T20:34:36.712622Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch26.timd/Ch26-000000.segd/Ch26-000000.tmet",
 "size":
@@ -19476,7 +19476,7 @@
 "blob":
 "2e705567-8bed-4b94-8b31-c690cde15cb6",
 "created":
-"2023-06-30T20:34:39.084090+00:00",
+"2023-06-30T20:34:39.084090Z",
 "metadata":
 {
 "@context":
@@ -19583,7 +19583,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:34:39.119803+00:00",
+"2023-06-30T20:34:39.119803Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch27.timd/Ch27-000000.segd/Ch27-000000.tdat",
 "size":
@@ -19595,7 +19595,7 @@
 "blob":
 "0659f7ef-5038-4f60-95a5-8cfa69e8f1f5",
 "created":
-"2023-06-30T20:34:39.751893+00:00",
+"2023-06-30T20:34:39.751893Z",
 "metadata":
 {
 "@context":
@@ -19702,7 +19702,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:34:39.798576+00:00",
+"2023-06-30T20:34:39.798576Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch27.timd/Ch27-000000.segd/Ch27-000000.tidx",
 "size":
@@ -19714,7 +19714,7 @@
 "blob":
 "8e6885d9-1f19-407b-9e4c-0f8f9ccbfa1f",
 "created":
-"2023-06-30T20:34:43.974637+00:00",
+"2023-06-30T20:34:43.974637Z",
 "metadata":
 {
 "@context":
@@ -19821,7 +19821,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:34:44.013933+00:00",
+"2023-06-30T20:34:44.013933Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch27.timd/Ch27-000000.segd/Ch27-000000.tmet",
 "size":
@@ -19833,7 +19833,7 @@
 "blob":
 "f1280204-f6a4-4a24-b2a9-e1e517ec66eb",
 "created":
-"2023-06-30T20:34:45.760118+00:00",
+"2023-06-30T20:34:45.760118Z",
 "metadata":
 {
 "@context":
@@ -19940,7 +19940,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:34:45.798137+00:00",
+"2023-06-30T20:34:45.798137Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch28.timd/Ch28-000000.segd/Ch28-000000.tdat",
 "size":
@@ -19952,7 +19952,7 @@
 "blob":
 "f642bf2f-3265-42f5-9365-269b32e1c40e",
 "created":
-"2023-06-30T20:34:47.724526+00:00",
+"2023-06-30T20:34:47.724526Z",
 "metadata":
 {
 "@context":
@@ -20059,7 +20059,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:34:47.763392+00:00",
+"2023-06-30T20:34:47.763392Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch28.timd/Ch28-000000.segd/Ch28-000000.tidx",
 "size":
@@ -20071,7 +20071,7 @@
 "blob":
 "db555ac0-079b-45cb-93ee-67a43ae65ba7",
 "created":
-"2023-06-30T20:34:50.304876+00:00",
+"2023-06-30T20:34:50.304876Z",
 "metadata":
 {
 "@context":
@@ -20178,7 +20178,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:34:50.339326+00:00",
+"2023-06-30T20:34:50.339326Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch28.timd/Ch28-000000.segd/Ch28-000000.tmet",
 "size":
@@ -20190,7 +20190,7 @@
 "blob":
 "3954b918-df33-4de6-8ee1-3407222c6fef",
 "created":
-"2023-06-30T20:34:50.901835+00:00",
+"2023-06-30T20:34:50.901835Z",
 "metadata":
 {
 "@context":
@@ -20297,7 +20297,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:34:50.935065+00:00",
+"2023-06-30T20:34:50.935065Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch29.timd/Ch29-000000.segd/Ch29-000000.tdat",
 "size":
@@ -20309,7 +20309,7 @@
 "blob":
 "331fce5f-3936-4677-9425-1db822198990",
 "created":
-"2023-06-30T20:34:53.927295+00:00",
+"2023-06-30T20:34:53.927295Z",
 "metadata":
 {
 "@context":
@@ -20416,7 +20416,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:34:53.964744+00:00",
+"2023-06-30T20:34:53.964744Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch29.timd/Ch29-000000.segd/Ch29-000000.tidx",
 "size":
@@ -20428,7 +20428,7 @@
 "blob":
 "79578fa1-6eba-4f12-9857-b305e137c1cf",
 "created":
-"2023-06-30T20:34:55.369474+00:00",
+"2023-06-30T20:34:55.369474Z",
 "metadata":
 {
 "@context":
@@ -20535,7 +20535,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:34:55.411284+00:00",
+"2023-06-30T20:34:55.411284Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch29.timd/Ch29-000000.segd/Ch29-000000.tmet",
 "size":
@@ -20547,7 +20547,7 @@
 "blob":
 "c2dafb67-deb0-4190-9338-cd1b4d4b3a1a",
 "created":
-"2023-06-30T20:34:58.594587+00:00",
+"2023-06-30T20:34:58.594587Z",
 "metadata":
 {
 "@context":
@@ -20654,7 +20654,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:34:58.630589+00:00",
+"2023-06-30T20:34:58.630589Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch3.timd/Ch3-000000.segd/Ch3-000000.tdat",
 "size":
@@ -20666,7 +20666,7 @@
 "blob":
 "3a42da8e-8622-40c7-b46f-e36e918e3b9d",
 "created":
-"2023-06-30T20:34:59.742549+00:00",
+"2023-06-30T20:34:59.742549Z",
 "metadata":
 {
 "@context":
@@ -20773,7 +20773,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:34:59.778133+00:00",
+"2023-06-30T20:34:59.778133Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch3.timd/Ch3-000000.segd/Ch3-000000.tidx",
 "size":
@@ -20785,7 +20785,7 @@
 "blob":
 "46180098-0446-48ea-9e33-d3fea662824d",
 "created":
-"2023-06-30T20:35:01.239847+00:00",
+"2023-06-30T20:35:01.239847Z",
 "metadata":
 {
 "@context":
@@ -20892,7 +20892,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:35:01.285845+00:00",
+"2023-06-30T20:35:01.285845Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch3.timd/Ch3-000000.segd/Ch3-000000.tmet",
 "size":
@@ -20904,7 +20904,7 @@
 "blob":
 "c329b95c-f4b1-4f71-89fc-9d3a52208f61",
 "created":
-"2023-06-30T20:35:04.122578+00:00",
+"2023-06-30T20:35:04.122578Z",
 "metadata":
 {
 "@context":
@@ -21011,7 +21011,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:35:04.164985+00:00",
+"2023-06-30T20:35:04.164985Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch30.timd/Ch30-000000.segd/Ch30-000000.tdat",
 "size":
@@ -21023,7 +21023,7 @@
 "blob":
 "244ebc48-9b80-4681-b511-06c38477ff47",
 "created":
-"2023-06-30T20:35:05.263298+00:00",
+"2023-06-30T20:35:05.263298Z",
 "metadata":
 {
 "@context":
@@ -21130,7 +21130,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:35:05.309124+00:00",
+"2023-06-30T20:35:05.309124Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch30.timd/Ch30-000000.segd/Ch30-000000.tidx",
 "size":
@@ -21142,7 +21142,7 @@
 "blob":
 "8a39f965-5481-45e3-86e0-1a73f8419f1e",
 "created":
-"2023-06-30T20:35:07.521039+00:00",
+"2023-06-30T20:35:07.521039Z",
 "metadata":
 {
 "@context":
@@ -21249,7 +21249,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:35:07.555813+00:00",
+"2023-06-30T20:35:07.555813Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch30.timd/Ch30-000000.segd/Ch30-000000.tmet",
 "size":
@@ -21261,7 +21261,7 @@
 "blob":
 "10750977-5242-451f-874f-f4e29ebca577",
 "created":
-"2023-06-30T20:35:09.165286+00:00",
+"2023-06-30T20:35:09.165286Z",
 "metadata":
 {
 "@context":
@@ -21368,7 +21368,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:35:09.200919+00:00",
+"2023-06-30T20:35:09.200919Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch31.timd/Ch31-000000.segd/Ch31-000000.tdat",
 "size":
@@ -21380,7 +21380,7 @@
 "blob":
 "31f2815a-0a2a-4c2e-bc9a-6bdd3f01cbbe",
 "created":
-"2023-06-30T20:35:09.658160+00:00",
+"2023-06-30T20:35:09.658160Z",
 "metadata":
 {
 "@context":
@@ -21487,7 +21487,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:35:09.698706+00:00",
+"2023-06-30T20:35:09.698706Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch31.timd/Ch31-000000.segd/Ch31-000000.tidx",
 "size":
@@ -21499,7 +21499,7 @@
 "blob":
 "3cee38c5-54dc-452e-8a71-b38be4e4ea17",
 "created":
-"2023-06-30T20:35:12.821340+00:00",
+"2023-06-30T20:35:12.821340Z",
 "metadata":
 {
 "@context":
@@ -21606,7 +21606,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:35:12.855314+00:00",
+"2023-06-30T20:35:12.855314Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch31.timd/Ch31-000000.segd/Ch31-000000.tmet",
 "size":
@@ -21618,7 +21618,7 @@
 "blob":
 "4e404d00-9687-4d9c-9226-ffa00637852f",
 "created":
-"2023-06-30T20:35:14.684091+00:00",
+"2023-06-30T20:35:14.684091Z",
 "metadata":
 {
 "@context":
@@ -21725,7 +21725,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:35:14.719365+00:00",
+"2023-06-30T20:35:14.719365Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch4.timd/Ch4-000000.segd/Ch4-000000.tdat",
 "size":
@@ -21737,7 +21737,7 @@
 "blob":
 "56cbf6a9-0f0c-4805-8827-c20360127001",
 "created":
-"2023-06-30T20:35:16.569020+00:00",
+"2023-06-30T20:35:16.569020Z",
 "metadata":
 {
 "@context":
@@ -21844,7 +21844,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:35:16.605889+00:00",
+"2023-06-30T20:35:16.605889Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch4.timd/Ch4-000000.segd/Ch4-000000.tidx",
 "size":
@@ -21856,7 +21856,7 @@
 "blob":
 "b5834e57-f7ef-43a0-ae6f-ef749f2beb25",
 "created":
-"2023-06-30T20:35:18.426341+00:00",
+"2023-06-30T20:35:18.426341Z",
 "metadata":
 {
 "@context":
@@ -21963,7 +21963,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:35:18.460640+00:00",
+"2023-06-30T20:35:18.460640Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch4.timd/Ch4-000000.segd/Ch4-000000.tmet",
 "size":
@@ -21975,7 +21975,7 @@
 "blob":
 "c275a461-dc4b-43f8-b2cf-f73d158139de",
 "created":
-"2023-06-30T20:35:19.534887+00:00",
+"2023-06-30T20:35:19.534887Z",
 "metadata":
 {
 "@context":
@@ -22082,7 +22082,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:35:19.568021+00:00",
+"2023-06-30T20:35:19.568021Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch5.timd/Ch5-000000.segd/Ch5-000000.tdat",
 "size":
@@ -22094,7 +22094,7 @@
 "blob":
 "20ebc440-503f-4621-be32-0865251b85d0",
 "created":
-"2023-06-30T20:35:22.483763+00:00",
+"2023-06-30T20:35:22.483763Z",
 "metadata":
 {
 "@context":
@@ -22201,7 +22201,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:35:22.520011+00:00",
+"2023-06-30T20:35:22.520011Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch5.timd/Ch5-000000.segd/Ch5-000000.tidx",
 "size":
@@ -22213,7 +22213,7 @@
 "blob":
 "ce883cab-7502-423f-935f-a259c0b16725",
 "created":
-"2023-06-30T20:35:24.339659+00:00",
+"2023-06-30T20:35:24.339659Z",
 "metadata":
 {
 "@context":
@@ -22320,7 +22320,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:35:24.374150+00:00",
+"2023-06-30T20:35:24.374150Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch5.timd/Ch5-000000.segd/Ch5-000000.tmet",
 "size":
@@ -22332,7 +22332,7 @@
 "blob":
 "cda4e451-3d1c-47d2-847d-bc815e37d367",
 "created":
-"2023-06-30T20:35:27.501300+00:00",
+"2023-06-30T20:35:27.501300Z",
 "metadata":
 {
 "@context":
@@ -22439,7 +22439,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:35:27.549025+00:00",
+"2023-06-30T20:35:27.549025Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch6.timd/Ch6-000000.segd/Ch6-000000.tdat",
 "size":
@@ -22451,7 +22451,7 @@
 "blob":
 "404e67ca-7a41-4705-a516-f4c165b7ce92",
 "created":
-"2023-06-30T20:35:28.923306+00:00",
+"2023-06-30T20:35:28.923306Z",
 "metadata":
 {
 "@context":
@@ -22558,7 +22558,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:35:28.959548+00:00",
+"2023-06-30T20:35:28.959548Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch6.timd/Ch6-000000.segd/Ch6-000000.tidx",
 "size":
@@ -22570,7 +22570,7 @@
 "blob":
 "a0d50299-df64-4a14-a94d-1a725787ac2e",
 "created":
-"2023-06-30T20:35:29.758019+00:00",
+"2023-06-30T20:35:29.758019Z",
 "metadata":
 {
 "@context":
@@ -22677,7 +22677,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:35:29.794530+00:00",
+"2023-06-30T20:35:29.794530Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch6.timd/Ch6-000000.segd/Ch6-000000.tmet",
 "size":
@@ -22689,7 +22689,7 @@
 "blob":
 "9d87414d-613e-4bc3-a524-5e54ac8338fb",
 "created":
-"2023-06-30T20:35:34.025889+00:00",
+"2023-06-30T20:35:34.025889Z",
 "metadata":
 {
 "@context":
@@ -22796,7 +22796,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:35:34.063763+00:00",
+"2023-06-30T20:35:34.063763Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch7.timd/Ch7-000000.segd/Ch7-000000.tdat",
 "size":
@@ -22808,7 +22808,7 @@
 "blob":
 "06037536-a1a2-466f-87b4-7e6bcd1614cf",
 "created":
-"2023-06-30T20:35:35.827286+00:00",
+"2023-06-30T20:35:35.827286Z",
 "metadata":
 {
 "@context":
@@ -22915,7 +22915,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:35:35.873683+00:00",
+"2023-06-30T20:35:35.873683Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch7.timd/Ch7-000000.segd/Ch7-000000.tidx",
 "size":
@@ -22927,7 +22927,7 @@
 "blob":
 "8f69260c-90dd-492d-bf3d-b2dba6a449ec",
 "created":
-"2023-06-30T20:35:37.982269+00:00",
+"2023-06-30T20:35:37.982269Z",
 "metadata":
 {
 "@context":
@@ -23034,7 +23034,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:35:38.027062+00:00",
+"2023-06-30T20:35:38.027062Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch7.timd/Ch7-000000.segd/Ch7-000000.tmet",
 "size":
@@ -23046,7 +23046,7 @@
 "blob":
 "fcc3084d-b453-4e00-8964-0ef3fa4f6ce0",
 "created":
-"2023-06-30T20:35:40.125708+00:00",
+"2023-06-30T20:35:40.125708Z",
 "metadata":
 {
 "@context":
@@ -23153,7 +23153,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:35:40.163178+00:00",
+"2023-06-30T20:35:40.163178Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch8.timd/Ch8-000000.segd/Ch8-000000.tdat",
 "size":
@@ -23165,7 +23165,7 @@
 "blob":
 "d3cc8e5c-6612-4ffe-9665-766e0be38dcf",
 "created":
-"2023-06-30T20:35:40.811384+00:00",
+"2023-06-30T20:35:40.811384Z",
 "metadata":
 {
 "@context":
@@ -23272,7 +23272,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:35:40.845462+00:00",
+"2023-06-30T20:35:40.845462Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch8.timd/Ch8-000000.segd/Ch8-000000.tidx",
 "size":
@@ -23284,7 +23284,7 @@
 "blob":
 "ed0ac4ab-4bc3-4c49-87d7-cd64d86cbaf7",
 "created":
-"2023-06-30T20:35:44.527751+00:00",
+"2023-06-30T20:35:44.527751Z",
 "metadata":
 {
 "@context":
@@ -23391,7 +23391,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:35:44.572282+00:00",
+"2023-06-30T20:35:44.572282Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch8.timd/Ch8-000000.segd/Ch8-000000.tmet",
 "size":
@@ -23403,7 +23403,7 @@
 "blob":
 "b878988b-d777-43c3-8919-b7a3c40e8873",
 "created":
-"2023-06-30T20:35:46.351128+00:00",
+"2023-06-30T20:35:46.351128Z",
 "metadata":
 {
 "@context":
@@ -23510,7 +23510,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:35:46.396426+00:00",
+"2023-06-30T20:35:46.396426Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch9.timd/Ch9-000000.segd/Ch9-000000.tdat",
 "size":
@@ -23522,7 +23522,7 @@
 "blob":
 "771b05c8-fc5b-4d92-a1ce-a03dd76d1de3",
 "created":
-"2023-06-30T20:35:48.617182+00:00",
+"2023-06-30T20:35:48.617182Z",
 "metadata":
 {
 "@context":
@@ -23629,7 +23629,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:35:48.661052+00:00",
+"2023-06-30T20:35:48.661052Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch9.timd/Ch9-000000.segd/Ch9-000000.tidx",
 "size":
@@ -23641,7 +23641,7 @@
 "blob":
 "938d13e8-9b66-48c3-976c-fe40a91621ec",
 "created":
-"2023-06-30T20:35:49.610826+00:00",
+"2023-06-30T20:35:49.610826Z",
 "metadata":
 {
 "@context":
@@ -23748,7 +23748,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:35:49.645058+00:00",
+"2023-06-30T20:35:49.645058Z",
 "path":
 "sub-c02/ses-postop01/ieeg/sub-c02_ses-postop01_acq-ref1_ieeg.mefd/Ch9.timd/Ch9-000000.segd/Ch9-000000.tmet",
 "size":
@@ -23760,7 +23760,7 @@
 "blob":
 "36f4d37f-cef4-47d4-87a1-622ec478eb6f",
 "created":
-"2023-06-30T20:35:49.756983+00:00",
+"2023-06-30T20:35:49.756983Z",
 "metadata":
 {
 "@context":
@@ -23884,7 +23884,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:35:49.795676+00:00",
+"2023-06-30T20:35:49.795676Z",
 "path":
 "sub-c02/ses-postop01/sub-c02_ses-postop01_scans.json",
 "size":
@@ -23896,7 +23896,7 @@
 "blob":
 "859096e2-2699-4744-a681-41a495765f28",
 "created":
-"2023-06-30T20:35:51.165469+00:00",
+"2023-06-30T20:35:51.165469Z",
 "metadata":
 {
 "@context":
@@ -24020,7 +24020,7 @@
 ]
 },
 "modified":
-"2023-06-30T20:35:51.199618+00:00",
+"2023-06-30T20:35:51.199618Z",
 "path":
 "sub-c02/ses-postop01/sub-c02_ses-postop01_scans.tsv",
 "size":
