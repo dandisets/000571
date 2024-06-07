@@ -1,0 +1,14 @@
+{
+    "filename": {
+        "Description": "Filename from the directory of the file"
+    },
+    "acq_time": {
+        "Description": "YYYY-MM-DDThh:mm:ss[.000000][Z] (year, month, day, hour (24h), minute, second, optional fractional seconds, and optional UTC time indicator)."
+    },
+    "acq_time_unix": {
+        "Description": "Unix time of the acquisition time"
+    },
+    "comments": {
+        "Description": "Miscellaneous comments on the specific file"
+    }
+}

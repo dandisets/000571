@@ -1,7 +1,7 @@
 {
     "participant_id": {
-		"Description": "Anonymised participant IDs of dataset"
-	},
+        "Description": "Anonymised participant IDs of dataset"
+    },
     "sex": {
         "Description": "sex of the participant",
         "Levels": {
@@ -10,4 +10,3 @@
         }
     }
 }
-   
