@@ -20,7 +20,8 @@ assetsSummary:
 citation: Mivalt, Filip; Lampert, Frederik; van den Boom, Max; Kim, Jiwon; Duque-Lopez,
   Andrea; Krakorova, Martina; Kim, Inyong; Hermes, Dora; Brunner, Peter; Kremen, Vaclav;
   Worrell, Gregory A.; Miller, Kai J. (2025) Intracranial recordings using BCI2000
-  and the CorTec BrainInterchange (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/000571/draft
+  and the CorTec BrainInterchange (Version 0.250613.1559) [Data set]. DANDI Archive.
+  https://doi.org/10.48324/dandi.000571/0.250613.1559
 contributor:
 - affiliation: []
   email: mivalt.filip@mayo.edu
@@ -89,14 +90,15 @@ description: "An Ecosystem of Technology and Protocols for Adaptive Neuromodulat
   Research in Humans\n\nThis study aims to develop an ecosystem for the purpose of
   neurmodulation using the Cortec BCI device and BCI2000 software.\n\nContact: For
   questions regarding this dataset, please contact mivalt.filip@mayo.edu or Miller.Kai@mayo.edu"
+doi: 10.48324/dandi.000571/0.250613.1559
 ethicsApproval: []
-id: DANDI:000571/draft
+id: DANDI:000571/0.250613.1559
 identifier: DANDI:000571
 keywords: []
 license:
 - spdx:CC0-1.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000571/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000571/0.250613.1559/assets.yaml
 name: Intracranial recordings using BCI2000 and the CorTec BrainInterchange
 protocol: []
 publishedBy:
@@ -116,6 +118,6 @@ repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000571/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000571/0.250613.1559
+version: 0.250613.1559
 wasGeneratedBy: []
