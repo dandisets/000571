@@ -14,17 +14,20 @@ assetsSummary:
     name: Brain Imaging Data Structure (BIDS)
     schemaKey: StandardsType
   measurementTechnique: []
-  numberOfBytes: 2314211366
-  numberOfFiles: 13304
-  numberOfSubjects: 2
+  numberOfBytes: 20978054669
+  numberOfFiles: 68199
+  numberOfSubjects: 3
   schemaKey: AssetsSummary
   species: []
   variableMeasured: []
-citation: Mivalt, Filip; Lampert, Frederik; van den Boom, Max; Kim, Jiwon; Duque-Lopez,
-  Andrea; Krakorova, Martina; Kim, Inyong; Hermes, Dora; Brunner, Peter; Kremen, Vaclav;
-  Worrell, Gregory A.; Miller, Kai J. (2025) Intracranial recordings using BCI2000
-  and the CorTec BrainInterchange (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/000571/draft
+citation: Lampert, Frederik; Mivalt, Filip; van den Boom, Max; Krakorova, Martina;
+  Kim, Inyong; Brunner, Peter; Kremen, Vaclav; Worrell, Gregory A.; Miller, Kai J.
+  (2025) Intracranial recordings using BCI2000 and the CorTec BrainInterchange (Version
+  draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/000571/draft
 contributor:
+- includeInCitation: true
+  name: Lampert, Frederik
+  schemaKey: Person
 - affiliation: []
   email: mivalt.filip@mayo.edu
   identifier: 0000-0002-0693-9495
@@ -33,22 +36,9 @@ contributor:
   roleName:
   - dcite:ContactPerson
   schemaKey: Person
-- includeInCitation: true
-  name: Lampert, Frederik
-  schemaKey: Person
 - affiliation: []
   includeInCitation: true
   name: van den Boom, Max
-  roleName: []
-  schemaKey: Person
-- affiliation: []
-  includeInCitation: true
-  name: Kim, Jiwon
-  roleName: []
-  schemaKey: Person
-- affiliation: []
-  includeInCitation: true
-  name: Duque-Lopez, Andrea
   roleName: []
   schemaKey: Person
 - affiliation: []
@@ -59,11 +49,6 @@ contributor:
 - affiliation: []
   includeInCitation: true
   name: Kim, Inyong
-  roleName: []
-  schemaKey: Person
-- affiliation: []
-  includeInCitation: true
-  name: Hermes, Dora
   roleName: []
   schemaKey: Person
 - affiliation: []
@@ -87,7 +72,7 @@ contributor:
   roleName: []
   schemaKey: Person
 dateCreated: '2023-06-30T20:04:35.563115+00:00'
-datePublished: '2025-06-13T15:59:58.747117+00:00'
+datePublished: '2025-06-16T11:43:01.885637+00:00'
 description: "An Ecosystem of Technology and Protocols for Adaptive Neuromodulation
   Research in Humans\n\nThis study aims to develop an ecosystem for the purpose of
   neurmodulation using the Cortec BCI device and BCI2000 software.\n\nContact: For
@@ -95,21 +80,19 @@ description: "An Ecosystem of Technology and Protocols for Adaptive Neuromodulat
 ethicsApproval: []
 id: DANDI:000571/draft
 identifier: DANDI:000571
-keywords: []
 license:
 - spdx:CC0-1.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000571/versions/draft/assets/
 name: Intracranial recordings using BCI2000 and the CorTec BrainInterchange
-protocol: []
 publishedBy:
-  endDate: '2025-06-13T15:59:58.747117+00:00'
-  id: urn:uuid:b7dd4ac1-4865-4961-b34a-3bdaab61a9b7
+  endDate: '2025-06-16T11:43:01.885637+00:00'
+  id: urn:uuid:304ac73c-0e97-4c8c-ac98-25ec6b65063a
   name: DANDI publish
   schemaKey: PublishActivity
-  startDate: '2025-06-13T15:59:58.747117+00:00'
+  startDate: '2025-06-16T11:43:01.885637+00:00'
   wasAssociatedWith:
-  - id: urn:uuid:77030e9f-be99-4ce3-8974-3fe4a8a07d69
+  - id: urn:uuid:81f0f1bb-1a1c-4729-ae81-e7ad46867c38
     identifier: RRID:SCR_017571
     name: DANDI API
     schemaKey: Software
@@ -118,7 +101,6 @@ relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
-studyTarget: []
 url: https://dandiarchive.org/dandiset/000571/draft
 version: draft
 wasGeneratedBy: []

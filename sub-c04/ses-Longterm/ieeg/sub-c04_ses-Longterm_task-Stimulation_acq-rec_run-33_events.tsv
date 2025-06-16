@@ -1,0 +1,2 @@
+onset	duration	stim_frequency	stim_amplitude	pulse_width	stim_anodes	stim_cathodes
+5.0	60.0	0.04790648653827729	0.375	200.0	['CH22']	['CH27']

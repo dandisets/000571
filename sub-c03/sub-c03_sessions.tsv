@@ -1,4 +1,6 @@
 session_id	acq_time	acq_time_unix	sourcedata_dir	comments
 ses-plan01	n/a	n/a	n/a	n/a
-ses-recovery01	n/a	n/a	n/a	n/a
-sus-intraop01	n/a	n/a	n/a	n/a
+ses-Longterm	n/a	n/a	n/a	n/a
+ses-Intraopdata	n/a	n/a	n/a	n/a
+ses-Closedloop	n/a	n/a	n/a	n/a
+ses-Bseps	n/a	n/a	n/a	n/a
