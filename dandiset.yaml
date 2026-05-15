@@ -23,7 +23,7 @@ assetsSummary:
 citation: Lampert, Frederik; Mivalt, Filip; van den Boom, Max; Krakorova, Martina;
   Kim, Inyong; Brunner, Peter; Kremen, Vaclav; Worrell, Gregory A.; Miller, Kai J.
   (2026) Intracranial recordings using BCI2000 and the CorTec BrainInterchange (Version
-  draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/000571/draft
+  0.260515.0242) [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.000571/0.260515.0242
 contributor:
 - includeInCitation: true
   name: Lampert, Frederik
@@ -72,27 +72,28 @@ contributor:
   roleName: []
   schemaKey: Person
 dateCreated: '2023-06-30T20:04:35.563115+00:00'
-datePublished: '2025-06-16T11:43:01.885637+00:00'
+datePublished: '2026-05-15T02:42:07.840963+00:00'
 description: "An Ecosystem of Technology and Protocols for Adaptive Neuromodulation
   Research in Humans\n\nThis study aims to develop an ecosystem for the purpose of
   neurmodulation using the Cortec BCI device and BCI2000 software.\n\nContact: For
   questions regarding this dataset, please contact mivalt.filip@mayo.edu or Miller.Kai@mayo.edu"
+doi: 10.48324/dandi.000571/0.260515.0242
 ethicsApproval: []
-id: DANDI:000571/draft
+id: DANDI:000571/0.260515.0242
 identifier: DANDI:000571
 license:
 - spdx:CC0-1.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000571/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000571/0.260515.0242/assets.yaml
 name: Intracranial recordings using BCI2000 and the CorTec BrainInterchange
 publishedBy:
-  endDate: '2025-06-16T11:43:01.885637+00:00'
-  id: urn:uuid:304ac73c-0e97-4c8c-ac98-25ec6b65063a
+  endDate: '2026-05-15T02:42:07.840963+00:00'
+  id: urn:uuid:c3c4ea2e-d309-434c-9f27-1abdacb5ab68
   name: DANDI publish
   schemaKey: PublishActivity
-  startDate: '2025-06-16T11:43:01.885637+00:00'
+  startDate: '2026-05-15T02:42:07.840963+00:00'
   wasAssociatedWith:
-  - id: urn:uuid:81f0f1bb-1a1c-4729-ae81-e7ad46867c38
+  - id: urn:uuid:a4685fc6-276b-42c0-a7d0-ca2fbea039d5
     identifier: RRID:SCR_017571
     name: DANDI API
     schemaKey: Software
@@ -101,6 +102,6 @@ relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
-url: https://dandiarchive.org/dandiset/000571/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000571/0.260515.0242
+version: 0.260515.0242
 wasGeneratedBy: []
