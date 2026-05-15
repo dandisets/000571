@@ -14,15 +14,15 @@ assetsSummary:
     name: Brain Imaging Data Structure (BIDS)
     schemaKey: StandardsType
   measurementTechnique: []
-  numberOfBytes: 20978054669
-  numberOfFiles: 68199
-  numberOfSubjects: 3
+  numberOfBytes: 21567625500
+  numberOfFiles: 68210
+  numberOfSubjects: 5
   schemaKey: AssetsSummary
   species: []
   variableMeasured: []
 citation: Lampert, Frederik; Mivalt, Filip; van den Boom, Max; Krakorova, Martina;
   Kim, Inyong; Brunner, Peter; Kremen, Vaclav; Worrell, Gregory A.; Miller, Kai J.
-  (2025) Intracranial recordings using BCI2000 and the CorTec BrainInterchange (Version
+  (2026) Intracranial recordings using BCI2000 and the CorTec BrainInterchange (Version
   draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/000571/draft
 contributor:
 - includeInCitation: true

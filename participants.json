@@ -1,12 +1,16 @@
 {
     "participant_id": {
-        "Description": "Anonymised participant IDs of dataset"
-    },
+		"Description": "Anonymised participant IDs of dataset"
+	},
+    "Species": {
+		"Description": "Binomial species name from the NCBI Taxonomy"
+	},
     "sex": {
         "Description": "sex of the participant",
         "Levels": {
-            "M": "male",
-            "F": "female"
+            "m": "male",
+            "f": "female"
         }
     }
 }
+   
