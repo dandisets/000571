@@ -1,8 +1,0 @@
-{
-    "iEEGReference": "['CH12', 'CH31']",
-    "SamplingFrequency": 1000.0,
-    "PowerLineFrequency": 60,
-    "SoftwareFilters": "n/a",
-    "AmplificationFactor": "51.5dB",
-    "RecordingDurationSeconds": 604.9
-}
