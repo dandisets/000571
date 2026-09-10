@@ -1,8 +1,0 @@
-{
-    "IntendedFor": "derivatives/surfaces/sub-c01/c01_brain.surf.gii",
-    "iEEGCoordinateSystem": "study",
-    "iEEGCoordinateUnits": "mm",
-    "iEEGCoordinateSystemDescription": "Coordinate system with the origin in Tentorium cerebelli osseum, x-axis going to the right, positive y-axis through the , z-axis going more or less through a mid-hemisperic plane along the Longitudinal fissure. ",
-    "iEEGCoordinateProcessingDescription": "surface_projection",
-    "iEEGCoordinateProcessingReference": "Hermes et al., 2010 JNeuroMeth"
-}
