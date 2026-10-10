@@ -1,0 +1,4 @@
+Timestamp:	Wed Nov 19 14:08:08 2025
+Amplification factor:	51.5dB
+Reference channel(s):	16
+Impedances (Ohms):

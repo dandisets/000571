@@ -1,0 +1,112 @@
+{
+  "Description": [
+    "Custom BCI2000 stimulation configuration metadata. ",
+    "This file is additional to the BIDS specification."
+  ],
+  "EventState": "ImplantStimulation",
+  "TriggerState": "StimulusCode",
+  "StimulationPulses": {
+    "Columns": "x100Hz",
+    "RowLabels": [
+      "PulseID",
+      "Pulse amplitude [uA]",
+      "Pulse duration [us]",
+      "Dead zone 0 [us]",
+      "Dead zone 1 [us]"
+    ],
+    "Rows": [
+      {
+        "x100Hz": 1
+      },
+      {
+        "x100Hz": 1500
+      },
+      {
+        "x100Hz": 200
+      },
+      {
+        "x100Hz": 20
+      },
+      {
+        "x100Hz": 8960
+      }
+    ]
+  },
+  "StimulationTriggers": {
+    "Columns": [
+      "Var1",
+      "Var2",
+      "Var3",
+      "Var4",
+      "Var5"
+    ],
+    "RowLabels": [
+      "Trigger",
+      "PulseID",
+      "Source ch",
+      "Destination ch",
+      "Pulse Repetition",
+      "Train Frequency",
+      "Train Repetition"
+    ],
+    "Rows": [
+      {
+        "Var1": "StimulusCode==1",
+        "Var2": "StimulusCode==2",
+        "Var3": "StimulusCode==3",
+        "Var4": "StimulusCode==4",
+        "Var5": "StimulusCode==5"
+      },
+      {
+        "Var1": 1,
+        "Var2": 1,
+        "Var3": 1,
+        "Var4": 1,
+        "Var5": 1
+      },
+      {
+        "Var1": 18,
+        "Var2": 19,
+        "Var3": 20,
+        "Var4": [
+          18,
+          19,
+          20
+        ],
+        "Var5": [
+          21,
+          22,
+          23
+        ]
+      },
+      {
+        "Var1": 21,
+        "Var2": 22,
+        "Var3": 23,
+        "Var4": 17,
+        "Var5": 24
+      },
+      {
+        "Var1": 250,
+        "Var2": 250,
+        "Var3": 250,
+        "Var4": 250,
+        "Var5": 250
+      },
+      {
+        "Var1": 0.4,
+        "Var2": 0.4,
+        "Var3": 0.4,
+        "Var4": 0.4,
+        "Var5": 0.4
+      },
+      {
+        "Var1": 24,
+        "Var2": 24,
+        "Var3": 24,
+        "Var4": 24,
+        "Var5": 24
+      }
+    ]
+  }
+}

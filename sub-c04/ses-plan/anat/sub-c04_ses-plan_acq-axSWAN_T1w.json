@@ -1,0 +1,31 @@
+{
+  "ConversionSoftware": "dicm2nii.m 20230316",
+  "SeriesNumber": 5,
+  "SeriesDescription": "Ax SWAN new",
+  "ImageType": [
+    "ORIGINAL",
+    "PRIMARY",
+    "OTHER"
+  ],
+  "Modality": "MR",
+  "AcquisitionDateTime": "20250516093241",
+  "RepetitionTime": 0.0405,
+  "CompressedSensingFactor": 1,
+  "PhaseEncodingDirection": "i-",
+  "EchoTime": 0.02464,
+  "PatientName": "R_22D041",
+  "PatientAge": "000Y",
+  "PatientWeight": 36,
+  "PatientPosition": "HFP",
+  "SliceThickness": 0.8,
+  "FlipAngle": 15,
+  "Manufacturer": "GE MEDICAL SYSTEMS",
+  "SoftwareVersion": "29\\LX\\RX29.1_R02_2131.a",
+  "MRAcquisitionType": "3D",
+  "InstitutionName": "Mayo Clinic in Rochester MR33",
+  "DeviceSerialNumber": "00000000MR129033",
+  "ScanningSequence": "GR",
+  "SequenceVariant": "SS\\SP\\SK",
+  "ScanOptions": "FAST_GEMS\\FC\\FILTERED_GEMS\\PFP",
+  "SequenceName": "EFGRE3D"
+}

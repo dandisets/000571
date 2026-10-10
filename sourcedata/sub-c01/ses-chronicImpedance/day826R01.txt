@@ -1,0 +1,36 @@
+Timestamp:	Mon Jun 23 16:54:21 2025
+Amplification factor:	57.5dB
+Reference channel(s):	1, 32
+Impedances (Ohms):
+Ch 1	11762.7
+Ch 2	509.329
+Ch 3	539.847
+Ch 4	722.952
+Ch 5	730.582
+Ch 6	843.115
+Ch 7	7936.54
+Ch 8	530.31
+Ch 9	515.051
+Ch 10	604.697
+Ch 11	629.492
+Ch 12	inf
+Ch 13	663.824
+Ch 14	10486.7
+Ch 15	1941.75
+Ch 16	34393.4
+Ch 17	inf
+Ch 18	inf
+Ch 19	inf
+Ch 20	33805.9
+Ch 21	inf
+Ch 22	12853.7
+Ch 23	1373.36
+Ch 24	1119.68
+Ch 25	820.227
+Ch 26	688.62
+Ch 27	583.716
+Ch 28	1104.42
+Ch 29	728.674
+Ch 30	597.067
+Ch 31	629.492
+Ch 32	646.658

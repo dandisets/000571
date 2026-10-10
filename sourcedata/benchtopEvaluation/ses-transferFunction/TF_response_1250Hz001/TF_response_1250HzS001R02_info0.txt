@@ -1,0 +1,3 @@
+Timestamp:	Tue Feb  3 13:52:07 2026
+Amplification factor:	51.5dB
+Reference channel(s):	32

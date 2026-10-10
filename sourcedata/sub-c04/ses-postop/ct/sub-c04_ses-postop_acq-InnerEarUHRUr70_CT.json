@@ -1,0 +1,26 @@
+{
+  "ConversionSoftware": "dicm2nii.m 20230316",
+  "SeriesNumber": 6,
+  "SeriesDescription": "InnerEarUHR  0.5  Ur70  3",
+  "ImageType": [
+    "ORIGINAL",
+    "PRIMARY",
+    "AXIAL",
+    "CT_SOM5 SPI"
+  ],
+  "Modality": "CT",
+  "AcquisitionDateTime": "20250815085119.455000",
+  "PatientName": "R_22D041^Worrell^head",
+  "PatientSex": "O",
+  "PatientAge": "099Y",
+  "PatientPosition": "HFP",
+  "SliceThickness": 0.5,
+  "Manufacturer": "SIEMENS",
+  "SoftwareVersion": "syngo CT VB20A",
+  "InstitutionName": "Mayo Clinic in Rochester RC4M",
+  "InstitutionAddress": "200\r\nRochester/\r\nMN\r\nUSA",
+  "DeviceSerialNumber": "73013",
+  "TableHeight": 244.5,
+  "DistanceSourceToPatient": 595,
+  "DistanceSourceToDetector": 1085.6
+}

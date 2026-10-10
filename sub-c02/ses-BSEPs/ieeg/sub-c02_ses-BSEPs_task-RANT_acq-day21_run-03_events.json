@@ -1,0 +1,43 @@
+{
+  "onset": {
+    "LongName": "Event onset",
+    "Description": "Event onset relative to recording start.",
+    "Units": "s"
+  },
+  "duration": {
+    "LongName": "Event duration",
+    "Description": "Event duration.",
+    "Units": "s"
+  },
+  "trial_type": {
+    "LongName": "Event type",
+    "Description": [
+      "BCI2000-derived event type. Electrical stimulation ",
+      "events use trial_type 'electrical_stimulation'."
+    ]
+  },
+  "value": {
+    "LongName": "Source state value",
+    "Description": "BCI2000 state value associated with the event."
+  },
+  "sample": {
+    "LongName": "Event onset sample",
+    "Description": "Zero-based sample index corresponding to event onset."
+  },
+  "electrical_stimulation_trigger": {
+    "LongName": "Electrical stimulation trigger",
+    "Description": [
+      "Trigger expression/configuration extracted from the ",
+      "configured trigger row of the BCI2000 ",
+      "StimulationTriggers parameter."
+    ]
+  },
+  "electrical_stimulation_function_ids": {
+    "LongName": "Electrical stimulation function IDs",
+    "Description": [
+      "Stimulation function ID or IDs extracted from the ",
+      "configured function-ID row of the BCI2000 ",
+      "StimulationTriggers parameter."
+    ]
+  }
+}

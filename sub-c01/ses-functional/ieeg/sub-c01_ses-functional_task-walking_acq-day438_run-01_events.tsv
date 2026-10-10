@@ -1,0 +1,13 @@
+onset	duration	trial_type	value	sample
+5	20.1	PhaseInSequence	2	5000
+5	20	StimulusCode	1	5000
+25.1	20	PhaseInSequence	3	25100
+45.1	20.1	PhaseInSequence	2	45100
+45.1	20	StimulusCode	1	45100
+65.2	20	PhaseInSequence	3	65200
+85.2	20.1	PhaseInSequence	2	85200
+85.2	20	StimulusCode	1	85200
+105.3	20	PhaseInSequence	3	105300
+125.3	20.1	PhaseInSequence	2	125300
+125.3	20	StimulusCode	1	125300
+145.4	3.2	PhaseInSequence	3	145400

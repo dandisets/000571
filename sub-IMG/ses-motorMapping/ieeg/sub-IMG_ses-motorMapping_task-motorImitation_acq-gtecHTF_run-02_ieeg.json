@@ -1,0 +1,38 @@
+{
+  "TaskName": "motorImitation",
+  "iEEGReference": "White Matter reference - RP9",
+  "SamplingFrequency": 1200,
+  "PowerLineFrequency": 60,
+  "SoftwareFilters": "n/a",
+  "HardwareFilters": {
+    "BandPassFilter": {
+      "Enabled": 0,
+      "HighPassCutoffHz": 0.1,
+      "LowPassCutoffHz": 70
+    },
+    "NotchFilter": {
+      "Enabled": 0
+    }
+  },
+  "Manufacturer": "gTec",
+  "ManufacturersModelName": "gHIamp",
+  "RecordingDuration": 190,
+  "RecordingType": "continuous",
+  "ECOGChannelCount": 0,
+  "SEEGChannelCount": 256,
+  "EEGChannelCount": 0,
+  "EOGChannelCount": 0,
+  "ECGChannelCount": 0,
+  "EMGChannelCount": 0,
+  "MiscChannelCount": 0,
+  "TriggerChannelCount": 0,
+  "BCI2000": {
+    "OriginalFile": "IMG_d4s1_HTF_motorImitationS000R02.dat",
+    "OriginalPath": "sourcedata/sub-IMG/ses-motorMapping/ieeg/IMG_d4s1_HTF_motorImitationS000R02.dat",
+    "ConversionProfile": "gHIamp_FunctionalData",
+    "ProfileVersion": "0.1.0",
+    "SourceModule": "gHIampADC",
+    "StorageTime": "2026-01-01T00:00:00.000",
+    "Converter": "BCI2000_to_BIDS"
+  }
+}

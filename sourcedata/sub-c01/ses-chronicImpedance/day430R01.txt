@@ -1,0 +1,2 @@
+Timestamp:	Thu May 23 15:12:49 2024
+Units:	Ohms

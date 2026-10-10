@@ -1,0 +1,35 @@
+{
+  "TaskName": "visual",
+  "iEEGReference": "n/a",
+  "SamplingFrequency": 1000,
+  "PowerLineFrequency": 60,
+  "SoftwareFilters": "n/a",
+  "Manufacturer": "CorTec",
+  "ManufacturersModelName": "Brain Interchange",
+  "RecordingDuration": 205,
+  "RecordingType": "continuous",
+  "ECOGChannelCount": 32,
+  "SEEGChannelCount": 0,
+  "EEGChannelCount": 0,
+  "EOGChannelCount": 0,
+  "ECGChannelCount": 0,
+  "EMGChannelCount": 0,
+  "MiscChannelCount": 0,
+  "TriggerChannelCount": 0,
+  "BCI2000": {
+    "OriginalFile": "day57R02.dat",
+    "OriginalPath": "sourcedata/sub-c04/ses-functional/ieeg/day57R02.dat",
+    "ConversionProfile": "CorTecBIC_FunctionalData",
+    "ProfileVersion": "0.3.2",
+    "SourceModule": "CorTecADC",
+    "StorageTime": "2025-09-23T19:09:24.000",
+    "Preprocessing": {
+      "function": "maskStateSamples",
+      "state": "ImplantLostSample",
+      "condition": "nonzero",
+      "target": "signal",
+      "replacement": "NaN"
+    },
+    "Converter": "BCI2000_to_BIDS"
+  }
+}

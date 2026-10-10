@@ -1,0 +1,2 @@
+2024-08-02T17:48:32	0:00:17	subject already asleep, lights are on
+2024-08-02T17:48:57	0:00:43	this recording is succeeding a stimulation session

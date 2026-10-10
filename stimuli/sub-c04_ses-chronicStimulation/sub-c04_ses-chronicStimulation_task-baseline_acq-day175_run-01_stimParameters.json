@@ -1,0 +1,88 @@
+{
+  "Description": [
+    "Custom BCI2000 stimulation configuration metadata. ",
+    "This file is additional to the BIDS specification."
+  ],
+  "EventState": "ImplantStimulation",
+  "TriggerState": "StimulusCode",
+  "StimulationPulses": {
+    "Columns": "x100Hz",
+    "RowLabels": [
+      "PulseID",
+      "Pulse amplitude [uA]",
+      "Pulse duration [us]",
+      "Dead zone 0 [us]",
+      "Dead zone 1 [us]"
+    ],
+    "Rows": [
+      {
+        "x100Hz": 1
+      },
+      {
+        "x100Hz": 1500
+      },
+      {
+        "x100Hz": 200
+      },
+      {
+        "x100Hz": 20
+      },
+      {
+        "x100Hz": 8960
+      }
+    ]
+  },
+  "StimulationTriggers": {
+    "Columns": [
+      "Var1",
+      "Var2",
+      "Var3"
+    ],
+    "RowLabels": [
+      "Trigger",
+      "PulseID",
+      "Source ch",
+      "Destination ch",
+      "Pulse Repetition",
+      "Train Frequency",
+      "Train Repetition"
+    ],
+    "Rows": [
+      {
+        "Var1": "StimulusCode==1",
+        "Var2": "StimulusCode==2",
+        "Var3": "StimulusCode==3"
+      },
+      {
+        "Var1": 1,
+        "Var2": 1,
+        "Var3": 1
+      },
+      {
+        "Var1": 24,
+        "Var2": 24,
+        "Var3": 24
+      },
+      {
+        "Var1": 21,
+        "Var2": 22,
+        "Var3": 23
+      },
+      {
+        "Var1": 250,
+        "Var2": 250,
+        "Var3": 250
+      },
+      {
+        "Var1": 0.4,
+        "Var2": 0.4,
+        "Var3": 0.4
+      },
+      {
+        "Var1": 24,
+        "Var2": 24,
+        "Var3": 24
+      }
+    ]
+  }
+}

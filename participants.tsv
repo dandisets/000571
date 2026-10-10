@@ -1,5 +1,8 @@
-participant_id	sex
-sub-c00	f
-sub-c02	f
-sub-c03	m
-sub-c04	f
+participant_id	species	sex
+sub-c00	Canis lupus familiaris	f
+sub-c01	Canis lupus familiaris	f
+sub-c02	Canis lupus familiaris	m
+sub-c03	Canis lupus familiaris	f
+sub-c04	Canis lupus familiaris	m
+sub-c05	Canis lupus familiaris	f
+sub-IMG	Homo sapiens	m

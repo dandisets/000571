@@ -1,0 +1,4 @@
+2026-04-07T20:09:59	0:00:36	subject is asleep, laying calmly in a dark room
+2026-04-07T20:16:55	0:07:32	petting
+2026-04-07T20:17:46	0:08:22	moving, but asleep
+2026-04-07T20:22:38	0:13:14	petting

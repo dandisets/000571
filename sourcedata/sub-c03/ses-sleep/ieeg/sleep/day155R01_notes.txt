@@ -1,0 +1,3 @@
+2025-04-08T19:29:03	0:00:52	lights off, recording done after vis stim session
+2025-04-08T19:29:13	0:01:02	subject already sleeping
+2025-04-08T19:29:27	0:01:16	calming music in the bckgrnd

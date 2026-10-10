@@ -1,0 +1,14 @@
+onset	duration	trial_type	value	sample	electrical_stimulation_trigger	electrical_stimulation_function_ids
+5	1	PhaseInSequence	1	24000	n/a	n/a
+6	108	PhaseInSequence	2	28800	n/a	n/a
+6	8	StimulusCode	1	28800	n/a	n/a
+14	3	StimulusCode	2	67200	n/a	n/a
+17	40	StimulusCode	3	81600	n/a	n/a
+17.05	40	electrical_stimulation	1	81840	StimulusCode=3	n/a
+57	3	StimulusCode	4	273600	n/a	n/a
+60	8	StimulusCode	5	288000	n/a	n/a
+68	3	StimulusCode	6	326400	n/a	n/a
+71	40	StimulusCode	7	340800	n/a	n/a
+71.1	39.95	electrical_stimulation	1	341280	StimulusCode=7	n/a
+111	3	StimulusCode	8	532800	n/a	n/a
+114	2	PhaseInSequence	3	547200	n/a	n/a

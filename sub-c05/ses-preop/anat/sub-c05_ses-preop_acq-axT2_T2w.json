@@ -1,0 +1,32 @@
+{
+  "ConversionSoftware": "dicm2nii.m 20230316",
+  "SeriesNumber": 4,
+  "SeriesDescription": "AX T2",
+  "ImageType": [
+    "ORIGINAL",
+    "PRIMARY",
+    "OTHER"
+  ],
+  "Modality": "MR",
+  "AcquisitionDateTime": "20260112093349",
+  "TotalReadoutTime": 0,
+  "RepetitionTime": 5.274,
+  "CompressedSensingFactor": 1,
+  "PhaseEncodingDirection": "i-",
+  "EchoTime": 0.104,
+  "PatientName": "R_25D077",
+  "PatientAge": "000Y",
+  "PatientWeight": 13,
+  "PatientPosition": "HFP",
+  "SliceThickness": 0.8,
+  "FlipAngle": 125,
+  "Manufacturer": "GE MEDICAL SYSTEMS",
+  "SoftwareVersion": "30\\LX\\SIGNA_LX1.MR30.1_R01B_2430.c",
+  "MRAcquisitionType": "2D",
+  "InstitutionName": "Mayo Clinic in Rochester MR33",
+  "DeviceSerialNumber": "00000000MR129033",
+  "ScanningSequence": "SE",
+  "SequenceVariant": "SK",
+  "ScanOptions": "FAST_GEMS\\FC_SLICE_AX_GEMS\\FC\\SAT_GEMS\\EDR_GEMS\\TRF_GEMS\\FILTERED_GEMS\\SP\\FSA_GEMS\\FR_GEMS",
+  "SequenceName": "FSE"
+}

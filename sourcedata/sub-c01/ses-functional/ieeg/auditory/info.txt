@@ -1,0 +1,6 @@
+auditory - 5 seconds blank, 3seconds stimulation - consisted of saying  "Belka good girl"
+reinforcement - 5 seconds blank, 5 seconds stimulation - consited of saying  "Belka good girl" at the beginning and rubbing her left cheek for 5 secs
+plain-tone -  5 seconds blank, 5seconds stimulation - consisted of playing pure "a" tone
+somatosensory_left - 3 seconds petting whole left side of the body (whiskers, front left leg, left side and left back leg), 5 seconds pause in between the stimuli
+somatosensory_right -  5 seconds petting right side of the body (ear, front left leg, left side and left hind leg), 5 seconds pause in between the stimuli
+visual - 5 seconds blank,  5 seconds stimulation - by turning on the light in the room 

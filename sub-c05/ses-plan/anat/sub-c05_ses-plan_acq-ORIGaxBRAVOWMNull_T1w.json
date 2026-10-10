@@ -1,0 +1,32 @@
+{
+  "ConversionSoftware": "dicm2nii.m 20230316",
+  "SeriesNumber": 40003,
+  "SeriesDescription": "ORIG 3D Ax BRAVO WM Null",
+  "ImageType": [
+    "ORIGINAL",
+    "PRIMARY",
+    "OTHER"
+  ],
+  "Modality": "MR",
+  "AcquisitionDateTime": "20260105113726",
+  "RepetitionTime": 0.008484,
+  "CompressedSensingFactor": 1,
+  "PhaseEncodingDirection": "i-",
+  "EchoTime": 0.003624,
+  "InversionTime": 0.4,
+  "PatientName": "R_25D077",
+  "PatientAge": "000Y",
+  "PatientWeight": 11,
+  "PatientPosition": "HFP",
+  "SliceThickness": 0.8,
+  "FlipAngle": 8,
+  "Manufacturer": "GE MEDICAL SYSTEMS",
+  "SoftwareVersion": "30\\LX\\SIGNA_LX1.MR30.1_R01B_2430.c",
+  "MRAcquisitionType": "3D",
+  "InstitutionName": "Mayo Clinic in Rochester MR33",
+  "DeviceSerialNumber": "00000000MR129033",
+  "ScanningSequence": "GR\\IR",
+  "SequenceVariant": "SS\\SK",
+  "ScanOptions": "FAST_GEMS\\EDR_GEMS\\FSP_GEMS\\IR_GEMS",
+  "SequenceName": "EFGRE3D"
+}

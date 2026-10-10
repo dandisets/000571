@@ -1,0 +1,108 @@
+{
+  "Description": [
+    "Custom BCI2000 stimulation configuration metadata. ",
+    "This file is additional to the BIDS specification."
+  ],
+  "EventState": "ImplantStimulation",
+  "TriggerState": "StimulusCode",
+  "StimulationPulses": {
+    "Columns": [
+      "VerticalPair1",
+      "VerticalPair2",
+      "VerticalPair3"
+    ],
+    "RowLabels": [
+      "FunctionID",
+      "Pulse amplitude [uA]",
+      "Pulse duration [us]",
+      "Dead zone 0 [us]",
+      "Dead zone 1 [us]",
+      "Anode(s)",
+      "Cathode(s)",
+      "Pulse Repetition",
+      "Burst Repetition",
+      "IsPause"
+    ],
+    "Rows": [
+      {
+        "VerticalPair1": 1,
+        "VerticalPair2": 2,
+        "VerticalPair3": 3
+      },
+      {
+        "VerticalPair1": 3000,
+        "VerticalPair2": 3000,
+        "VerticalPair3": 3000
+      },
+      {
+        "VerticalPair1": 200,
+        "VerticalPair2": 200,
+        "VerticalPair3": 200
+      },
+      {
+        "VerticalPair1": 10,
+        "VerticalPair2": 10,
+        "VerticalPair3": 10
+      },
+      {
+        "VerticalPair1": 10,
+        "VerticalPair2": 10,
+        "VerticalPair3": 10
+      },
+      {
+        "VerticalPair1": 29,
+        "VerticalPair2": 30,
+        "VerticalPair3": 31
+      },
+      {
+        "VerticalPair1": 26,
+        "VerticalPair2": 27,
+        "VerticalPair3": 28
+      },
+      {
+        "VerticalPair1": 1,
+        "VerticalPair2": 1,
+        "VerticalPair3": 1
+      },
+      {
+        "VerticalPair1": 1,
+        "VerticalPair2": 1,
+        "VerticalPair3": 1
+      },
+      {
+        "VerticalPair1": 0,
+        "VerticalPair2": 0,
+        "VerticalPair3": 0
+      }
+    ]
+  },
+  "StimulationTriggers": {
+    "Columns": [
+      "VerticalPair1",
+      "VerticalPair2",
+      "VerticalPair3"
+    ],
+    "RowLabels": [
+      "Trigger",
+      "FunctionID(s)",
+      "CommandRepetition"
+    ],
+    "Rows": [
+      {
+        "VerticalPair1": "StimulusCode==1",
+        "VerticalPair2": "StimulusCode==2",
+        "VerticalPair3": "StimulusCode==3"
+      },
+      {
+        "VerticalPair1": 1,
+        "VerticalPair2": 2,
+        "VerticalPair3": 3
+      },
+      {
+        "VerticalPair1": 1,
+        "VerticalPair2": 1,
+        "VerticalPair3": 1
+      }
+    ]
+  }
+}

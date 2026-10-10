@@ -1,0 +1,32 @@
+{
+  "ConversionSoftware": "dicm2nii.m 20230316",
+  "SeriesNumber": 32,
+  "SeriesDescription": "AX BRAVO Post ARC",
+  "ImageType": [
+    "ORIGINAL",
+    "PRIMARY",
+    "OTHER"
+  ],
+  "Modality": "MR",
+  "AcquisitionDateTime": "20210416135144",
+  "RepetitionTime": 0.007284,
+  "CompressedSensingFactor": 1,
+  "PhaseEncodingDirection": "i-",
+  "EchoTime": 0.003028,
+  "InversionTime": 0.45,
+  "PatientName": "R_21D946",
+  "PatientAge": "000Y",
+  "PatientWeight": 10,
+  "PatientPosition": "HFP",
+  "SliceThickness": 0.8,
+  "FlipAngle": 12,
+  "Manufacturer": "GE MEDICAL SYSTEMS",
+  "SoftwareVersion": "28\\LX\\MR Software release:RX28.0_R05_2035.a",
+  "MRAcquisitionType": "3D",
+  "InstitutionName": "MAYO CLINIC MRI 33",
+  "DeviceSerialNumber": "00000000MR129033",
+  "ScanningSequence": "GR\\IR",
+  "SequenceVariant": "SS\\SK",
+  "ScanOptions": "FAST_GEMS\\EDR_GEMS\\FILTERED_GEMS\\IR_GEMS",
+  "SequenceName": "EFGRE3D"
+}

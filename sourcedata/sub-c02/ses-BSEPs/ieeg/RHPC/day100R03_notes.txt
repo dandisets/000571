@@ -1,0 +1,3 @@
+2024-08-21T18:00:05	0:00:03	subject  laying calmly, napping
+2024-08-21T18:00:46	0:00:44	lights off
+2024-08-21T18:01:02	0:01:01	awake

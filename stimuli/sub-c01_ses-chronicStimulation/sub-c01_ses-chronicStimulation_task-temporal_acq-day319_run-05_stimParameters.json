@@ -1,0 +1,70 @@
+{
+  "Description": [
+    "Custom BCI2000 stimulation configuration metadata. ",
+    "This file is additional to the BIDS specification."
+  ],
+  "EventState": "ImplantStimulation",
+  "TriggerState": "StimulusCode",
+  "StimulationPulses": {
+    "Columns": "Pulse1",
+    "RowLabels": [
+      "PulseID",
+      "Pulse amplitude [uA]",
+      "Pulse duration [us]",
+      "Dead zone 0 [us]",
+      "Dead zone 1 [us]"
+    ],
+    "Rows": [
+      {
+        "Pulse1": 1
+      },
+      {
+        "Pulse1": 1000
+      },
+      {
+        "Pulse1": 100
+      },
+      {
+        "Pulse1": 10
+      },
+      {
+        "Pulse1": 9440
+      }
+    ]
+  },
+  "StimulationTriggers": {
+    "Columns": "Sequence1",
+    "RowLabels": [
+      "Trigger",
+      "PulseID",
+      "Source ch",
+      "Destination ch",
+      "Pulse Repetition",
+      "Train Frequency",
+      "Train Repetition"
+    ],
+    "Rows": [
+      {
+        "Sequence1": "StimulusCode==1"
+      },
+      {
+        "Sequence1": 1
+      },
+      {
+        "Sequence1": 13
+      },
+      {
+        "Sequence1": 18
+      },
+      {
+        "Sequence1": 100
+      },
+      {
+        "Sequence1": 1
+      },
+      {
+        "Sequence1": 600
+      }
+    ]
+  }
+}

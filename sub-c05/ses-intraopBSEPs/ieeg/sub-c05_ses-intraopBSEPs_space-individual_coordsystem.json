@@ -1,0 +1,9 @@
+{
+    "IntendedFor": "bids::sub-c05/ses-preop/anat/sub-c05_ses-preop_acq-corMPRAGE_T1w.nii",
+    "iEEGCoordinateSystem": "Other",
+    "iEEGCoordinateUnits": "mm",
+    "iEEGCoordinateSystemDescription": "Participant-specific anatomical coordinate system. Coordinates are expressed in millimeters with RAS orientation: the positive x-axis points to the subject's right, the positive y-axis points anteriorly, and the positive z-axis points superiorly. The coordinate-system origin is located at the Tentorium cerebelli osseum. The participant-specific anatomical reference image is specified by SpatialReference.",
+    "iEEGCoordinateProcessingDescription": "surface_projection",
+    "iEEGCoordinateProcessingReference": "Hermes et al., 2010 JNeuroMeth",
+    "SpatialReference": "bids::sub-c05/ses-preop/anat/sub-c05_ses-preop_acq-corMPRAGE_T1w.nii"
+}

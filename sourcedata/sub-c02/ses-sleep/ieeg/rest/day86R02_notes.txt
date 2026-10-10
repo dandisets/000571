@@ -1,0 +1,8 @@
+2024-08-07T19:03:22	0:00:37	occasional movement, subject is drowsy
+2024-08-07T19:03:36	0:00:51	eyes closed
+2024-08-07T19:04:14	0:01:28	laying still
+2024-08-07T19:05:33	0:02:48	arrousal
+2024-08-07T19:06:56	0:04:11	awake, loooking around
+2024-08-07T19:15:01	0:12:16	still awke
+2024-08-07T19:15:53	0:13:07	laying calmly, but alerrt
+no sleep recorded

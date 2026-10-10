@@ -1,0 +1,32 @@
+{
+  "ConversionSoftware": "dicm2nii.m 20230316",
+  "SeriesNumber": 2,
+  "SeriesDescription": "Cor 3D MPRAGE",
+  "ImageType": [
+    "ORIGINAL",
+    "PRIMARY",
+    "OTHER"
+  ],
+  "Modality": "MR",
+  "AcquisitionDateTime": "20230320090228",
+  "RepetitionTime": 2.72049,
+  "CompressedSensingFactor": 1,
+  "PhaseEncodingDirection": "i-",
+  "EchoTime": 0.003516,
+  "InversionTime": 0.92,
+  "PatientName": "R_23D049",
+  "PatientAge": "000Y",
+  "PatientWeight": 8.6,
+  "PatientPosition": "HFP",
+  "SliceThickness": 0.59,
+  "FlipAngle": 8,
+  "Manufacturer": "GE MEDICAL SYSTEMS",
+  "SoftwareVersion": "29\\LX\\RX29.1_R02_2131.a",
+  "MRAcquisitionType": "3D",
+  "InstitutionName": "Mayo Clinic in Rochester MR33",
+  "DeviceSerialNumber": "00000000MR129033",
+  "ScanningSequence": "RM\\IR",
+  "SequenceVariant": "NONE",
+  "ScanOptions": "EDR_GEMS\\FILTERED_GEMS\\FSP_GEMS\\IR_GEMS",
+  "SequenceName": "EFGRE3D"
+}

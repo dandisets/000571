@@ -1,0 +1,3 @@
+Timestamp:	Wed Jul 30 09:56:49 2025
+Amplification factor:	57.5dB
+Reference channel(s):	16

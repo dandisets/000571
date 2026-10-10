@@ -1,0 +1,32 @@
+{
+  "ConversionSoftware": "dicm2nii.m 20230316",
+  "SeriesNumber": 4,
+  "SeriesDescription": "AX T2",
+  "ImageType": [
+    "ORIGINAL",
+    "PRIMARY",
+    "OTHER"
+  ],
+  "Modality": "MR",
+  "AcquisitionDateTime": "20210416085412",
+  "TotalReadoutTime": 0,
+  "RepetitionTime": 4.068,
+  "CompressedSensingFactor": 1,
+  "PhaseEncodingDirection": "i-",
+  "EchoTime": 0.104112,
+  "PatientName": "R_21D946",
+  "PatientAge": "000Y",
+  "PatientWeight": 10,
+  "PatientPosition": "HFP",
+  "SliceThickness": 2,
+  "FlipAngle": 125,
+  "Manufacturer": "GE MEDICAL SYSTEMS",
+  "SoftwareVersion": "28\\LX\\MR Software release:RX28.0_R05_2035.a",
+  "MRAcquisitionType": "2D",
+  "InstitutionName": "MAYO CLINIC MRI 33",
+  "DeviceSerialNumber": "00000000MR129033",
+  "ScanningSequence": "SE",
+  "SequenceVariant": "SK",
+  "ScanOptions": "FAST_GEMS\\FC_SLICE_AX_GEMS\\FC\\SAT_GEMS\\EDR_GEMS\\TRF_GEMS\\FILTERED_GEMS\\SP\\FSA_GEMS\\FR_GEMS",
+  "SequenceName": "FSE"
+}

@@ -1,0 +1,5 @@
+2025-08-08T17:39:14	0:00:17	lights on, subject laying calmly
+2025-08-08T17:48:03	0:09:06	arrousal and movement
+2025-08-08T17:49:23	0:10:26	lights off
+2025-08-08T17:52:02	0:13:05	movement
+recording finished, subject laying on the side with implant, no longer able to connect to the implant

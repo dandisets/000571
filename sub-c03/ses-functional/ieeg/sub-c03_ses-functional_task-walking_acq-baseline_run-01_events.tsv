@@ -1,0 +1,12 @@
+onset	duration	trial_type	value	sample
+10	75	PhaseInSequence	2	10000
+10	7.5	StimulusCode	1	10000
+17.6	7.5	StimulusCode	2	17600
+25.2	7.5	StimulusCode	1	25200
+32.8	7.5	StimulusCode	2	32800
+40.4	7.5	StimulusCode	1	40400
+48	7.5	StimulusCode	2	48000
+55.6	7.5	StimulusCode	1	55600
+63.2	7.5	StimulusCode	2	63200
+70.8	7.5	StimulusCode	1	70800
+78.4	6.6	StimulusCode	2	78400

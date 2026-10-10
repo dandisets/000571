@@ -1,0 +1,74 @@
+{
+  "Description": [
+    "Custom BCI2000 stimulation configuration metadata. ",
+    "This file is additional to the BIDS specification."
+  ],
+  "EventState": "ImplantStimulation",
+  "TriggerState": "StimulusCode",
+  "StimulationPulses": {
+    "Columns": "UpperContacts",
+    "RowLabels": [
+      "FunctionID",
+      "Pulse amplitude [uA]",
+      "Pulse duration [us]",
+      "Dead zone 0 [us]",
+      "Dead zone 1 [us]",
+      "Anode(s)",
+      "Cathode(s)",
+      "Pulse Repetition",
+      "Burst Repetition",
+      "IsPause"
+    ],
+    "Rows": [
+      {
+        "UpperContacts": 1
+      },
+      {
+        "UpperContacts": 3000
+      },
+      {
+        "UpperContacts": 200
+      },
+      {
+        "UpperContacts": 10
+      },
+      {
+        "UpperContacts": 10
+      },
+      {
+        "UpperContacts": 32
+      },
+      {
+        "UpperContacts": 25
+      },
+      {
+        "UpperContacts": 1
+      },
+      {
+        "UpperContacts": 1
+      },
+      {
+        "UpperContacts": 0
+      }
+    ]
+  },
+  "StimulationTriggers": {
+    "Columns": "Top2Bottom",
+    "RowLabels": [
+      "Trigger",
+      "FunctionID(s)",
+      "CommandRepetition"
+    ],
+    "Rows": [
+      {
+        "Top2Bottom": "StimulusCode==1"
+      },
+      {
+        "Top2Bottom": 1
+      },
+      {
+        "Top2Bottom": 1
+      }
+    ]
+  }
+}

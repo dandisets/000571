@@ -1,0 +1,15 @@
+2024-07-26T18:17:46	0:00:22	subject awake
+2024-07-26T18:18:53	0:01:29	Lying down (L)
+2024-07-26T18:19:32	0:02:08	deep breath, relaxed
+2024-07-26T18:20:56	0:03:32	looking round
+2024-07-26T18:21:24	0:04:00	L
+2024-07-26T18:23:08	0:05:44	deep breat, relaxed
+2024-07-26T18:26:11	0:08:47	eyes closed, relaxed
+2024-07-26T18:28:04	0:10:40	eyes closed, relaxed, deep breath
+2024-07-26T18:29:04	0:11:40	sleeep
+2024-07-26T18:29:31	0:12:07	awake
+2024-07-26T18:29:48	0:12:24	lying back again
+2024-07-26T18:30:00	0:12:36	eyes closed
+2024-07-26T18:31:35	0:14:11	sleep
+2024-07-26T18:38:10	0:20:46	movement
+2024-07-26T18:38:31	0:21:07	awake

@@ -1,0 +1,3 @@
+2026-01-28T18:09:10	0:00:12	observed seizure today
+2026-01-28T18:09:37	0:00:39	acting normally, will do longer baseline today
+2026-01-28T18:12:07	0:03:09	seizing

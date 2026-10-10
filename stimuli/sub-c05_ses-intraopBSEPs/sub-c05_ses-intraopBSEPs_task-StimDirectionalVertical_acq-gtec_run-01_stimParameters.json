@@ -1,0 +1,85 @@
+{
+  "Description": [
+    "Custom BCI2000 stimulation configuration metadata. ",
+    "This file is additional to the BIDS specification."
+  ],
+  "SourceProfile": "gEstimFilter",
+  "Mode": "parameterSet",
+  "EventState": "EstimStimulus",
+  "TriggerState": "StimulusCode",
+  "Parameters": {
+    "UseStimulusPresentation": 1,
+    "UseMultipleConfigurations": 0,
+    "DoSelfTest": 1,
+    "QuietStimulation": 0,
+    "StimulationConfigurations": {
+      "Columns": "Configuration1",
+      "RowLabels": [
+        "Expression",
+        "Modularity(1=Biphasic)",
+        "Polarity(1=Alternating)",
+        "PhaseDuration(us)",
+        "InterphaseDuration(us)",
+        "Magnitude(mA)",
+        "PulseFrequency(Hz)",
+        "NumberOfPulses",
+        "FrequencyOfTrains(Hz)",
+        "NumberOfTrains"
+      ],
+      "Rows": [
+        {
+          "Configuration1": "StimulusCode==1"
+        },
+        {
+          "Configuration1": 1
+        },
+        {
+          "Configuration1": 0
+        },
+        {
+          "Configuration1": 200
+        },
+        {
+          "Configuration1": 100
+        },
+        {
+          "Configuration1": 1
+        },
+        {
+          "Configuration1": 20
+        },
+        {
+          "Configuration1": 10
+        },
+        {
+          "Configuration1": 0.5
+        },
+        {
+          "Configuration1": 5
+        }
+      ]
+    },
+    "StimulationExpression": 0,
+    "AbortExpression": {
+      "Columns": "Var1",
+      "Rows": {
+        "Var1": "StimulusCode==0"
+      }
+    },
+    "Modularity": 1,
+    "Polarity": 1,
+    "PhaseDuration": 200,
+    "InterphaseDuration": 0,
+    "Magnitude": 3,
+    "NumberOfPulses": 1,
+    "PulseFrequency": 2,
+    "NumberOfTrains": 13,
+    "FrequencyOfTrains": 0.2,
+    "Jitter": 60,
+    "ElectrodeType": 3,
+    "CircleDiameter": 2400,
+    "ContactDiameter": 2000,
+    "ContactLength": 1000,
+    "ExposedSurfaceArea": 1.75E+8
+  }
+}

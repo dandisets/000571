@@ -1,0 +1,8 @@
+{
+    "IntendedFor": "/derivatives/surfaces/sub-IMG/pial.R.surf.gii",
+    "iEEGCoordinateSystem": "ACPC",
+    "iEEGCoordinateUnits": "mm",
+    "iEEGCoordinateSystemDescription": "Coordinate system with the origin close to the anterior commissure (AC), negative y-axis going more or less through the posterior commissure (PC), z-axis going to a mid-hemisperic point which lies superior to the AC-PC line, x-axis going to the right",
+    "iEEGCoordinateProcessingDescription": "seeg_localization",
+    "iEEGCoordinateProcessingReference": "Huang H, Valencia GO, Hermes D, Miller KJ. A canonical visualization tool for SEEG electrodes. Annu Int Conf IEEE Eng Med Biol Soc. 2021 Nov;2021:6175-6178. doi: 10.1109/EMBC46164.2021.9630724. PMID: 34892526; PMCID: PMC9035306."
+}

@@ -1,0 +1,9 @@
+2025-09-05T19:39:35	0:00:32	BCI crashed, resuming recording
+2025-09-05T19:40:00	0:00:57	subhect asleep, lights are off
+2025-09-05T19:40:18	0:01:15	mild tremmors upon exhale
+2025-09-05T19:49:19	0:10:16	arrousal
+2025-09-05T19:54:02	0:14:59	potentially REM
+2025-09-05T20:02:16	0:23:13	movement
+2025-09-05T20:03:31	0:24:28	fully awake
+2025-09-05T20:03:36	0:24:32	standing
+2025-09-05T20:03:36	0:24:32	

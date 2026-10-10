@@ -1,0 +1,26 @@
+{
+  "ConversionSoftware": "dicm2nii.m 20230316",
+  "SeriesNumber": 3,
+  "SeriesDescription": "Head 0.5  Hr68  3",
+  "ImageType": [
+    "ORIGINAL",
+    "PRIMARY",
+    "AXIAL",
+    "CT_SOM5 SPI"
+  ],
+  "Modality": "CT",
+  "AcquisitionDateTime": "20210603085823.633000",
+  "PatientName": "R_21D946^Worrell",
+  "PatientSex": "O",
+  "PatientAge": "077Y",
+  "PatientPosition": "FFP",
+  "SliceThickness": 0.5,
+  "Manufacturer": "SIEMENS",
+  "SoftwareVersion": "syngo CT VB20A",
+  "InstitutionName": "MAYO CLINIC CT 4M",
+  "InstitutionAddress": "200\r\nRochester/\r\nMN\r\nUSA",
+  "DeviceSerialNumber": "73013",
+  "TableHeight": 106.5,
+  "DistanceSourceToPatient": 595,
+  "DistanceSourceToDetector": 1085.6
+}

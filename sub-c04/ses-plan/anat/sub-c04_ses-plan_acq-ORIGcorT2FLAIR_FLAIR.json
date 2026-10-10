@@ -1,0 +1,33 @@
+{
+  "ConversionSoftware": "dicm2nii.m 20230316",
+  "SeriesNumber": 40004,
+  "SeriesDescription": "ORIG Cor T2 FLAIR FS",
+  "ImageType": [
+    "ORIGINAL",
+    "PRIMARY",
+    "OTHER"
+  ],
+  "Modality": "MR",
+  "AcquisitionDateTime": "20250516084619",
+  "TotalReadoutTime": 0,
+  "RepetitionTime": 11,
+  "CompressedSensingFactor": 1,
+  "PhaseEncodingDirection": "i-",
+  "EchoTime": 0.146376,
+  "InversionTime": 2.64572,
+  "PatientName": "R_22D041",
+  "PatientAge": "000Y",
+  "PatientWeight": 36,
+  "PatientPosition": "HFP",
+  "SliceThickness": 0.8,
+  "FlipAngle": 160,
+  "Manufacturer": "GE MEDICAL SYSTEMS",
+  "SoftwareVersion": "29\\LX\\RX29.1_R02_2131.a",
+  "MRAcquisitionType": "2D",
+  "InstitutionName": "Mayo Clinic in Rochester MR33",
+  "DeviceSerialNumber": "00000000MR129033",
+  "ScanningSequence": "SE\\IR",
+  "SequenceVariant": "SK",
+  "ScanOptions": "FAST_GEMS\\SAT_GEMS\\EDR_GEMS\\TRF_GEMS\\FILTERED_GEMS\\FS\\FSA_GEMS\\T2FLAIR_GEMS",
+  "SequenceName": "FSE"
+}

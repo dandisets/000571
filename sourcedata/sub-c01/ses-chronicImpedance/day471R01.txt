@@ -1,0 +1,7 @@
+Timestamp:	Wed Jul  3 17:48:22 2024
+Units:	Ohms
+Ch 1	522.681
+Ch 2	530.31
+Ch 3	591.345
+Ch 4	963.278
+Ch 5	1104.42

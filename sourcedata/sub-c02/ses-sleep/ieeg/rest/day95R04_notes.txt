@@ -1,0 +1,8 @@
+2024-08-16T18:50:27	0:00:22	lights off subject awwake, drowsy
+2024-08-16T18:51:05	0:01:00	eyes closed, snoring
+2024-08-16T18:51:25	0:01:20	sleep
+2024-08-16T18:54:08	0:04:03	arrousal
+2024-08-16T18:55:48	0:05:43	back to sleep
+2024-08-16T18:58:55	0:08:50	arrousal
+2024-08-16T19:00:12	0:10:07	deep sleep
+2024-08-16T19:03:38	0:13:33	REM

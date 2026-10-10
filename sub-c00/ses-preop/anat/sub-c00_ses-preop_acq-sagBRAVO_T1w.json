@@ -1,0 +1,33 @@
+{
+  "ConversionSoftware": "dicm2nii.m 20230316",
+  "SeriesNumber": 1001,
+  "SeriesDescription": "SAG BRAVO REFORMAT",
+  "ImageType": [
+    "DERIVED",
+    "SECONDARY",
+    "REFORMATTED",
+    "AVERAGE"
+  ],
+  "Modality": "MR",
+  "AcquisitionDateTime": "20210416094708",
+  "RepetitionTime": 0.0073,
+  "CompressedSensingFactor": 1,
+  "PhaseEncodingDirection": "j-",
+  "EchoTime": 0.003148,
+  "InversionTime": 0.45,
+  "PatientName": "R_21D946",
+  "PatientAge": "000Y",
+  "PatientWeight": 10,
+  "PatientPosition": "HFP",
+  "SliceThickness": 3,
+  "FlipAngle": 12,
+  "Manufacturer": "GE MEDICAL SYSTEMS",
+  "SoftwareVersion": "28\\LX\\MR Software release:RX28.0_R05_2035.a",
+  "MRAcquisitionType": "3D",
+  "InstitutionName": "MAYO CLINIC MRI 33",
+  "DeviceSerialNumber": "00000000MR129033",
+  "ScanningSequence": "GR\\IR",
+  "SequenceVariant": "SS\\SK",
+  "ScanOptions": "FAST_GEMS\\EDR_GEMS\\FILTERED_GEMS\\ACC_GEMS\\IR_GEMS",
+  "SequenceName": "EFGRE3D"
+}

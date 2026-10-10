@@ -1,0 +1,36 @@
+{
+  "TaskName": "temporal",
+  "iEEGReference": "n/a",
+  "SamplingFrequency": 1000,
+  "PowerLineFrequency": 60,
+  "SoftwareFilters": "n/a",
+  "Manufacturer": "CorTec",
+  "ManufacturersModelName": "Brain Interchange",
+  "RecordingDuration": 610,
+  "RecordingType": "continuous",
+  "ECOGChannelCount": 32,
+  "SEEGChannelCount": 0,
+  "EEGChannelCount": 0,
+  "EOGChannelCount": 0,
+  "ECGChannelCount": 0,
+  "EMGChannelCount": 0,
+  "MiscChannelCount": 0,
+  "TriggerChannelCount": 0,
+  "ElectricalStimulation": true,
+  "BCI2000": {
+    "OriginalFile": "day372R01.dat",
+    "OriginalPath": "sourcedata/sub-c01/ses-chronicStimulation/ieeg/day372R01.dat",
+    "ConversionProfile": "CorTecBIC",
+    "ProfileVersion": "0.4.0",
+    "SourceModule": "CorTecADC",
+    "StorageTime": "2024-03-26T17:26:09.000",
+    "Preprocessing": {
+      "function": "maskStateSamples",
+      "state": "ImplantLostSample",
+      "condition": "nonzero",
+      "target": "signal",
+      "replacement": "NaN"
+    },
+    "Converter": "BCI2000_to_BIDS"
+  }
+}

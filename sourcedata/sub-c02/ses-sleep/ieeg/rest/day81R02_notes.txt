@@ -1,0 +1,5 @@
+2024-08-02T17:51:13	0:00:08	recording resumed
+2024-08-02T17:51:30	0:00:24	subject still asleep, lights are on
+2024-08-02T17:57:04	0:05:59	eyes open
+2024-08-02T17:57:07	0:06:02	awake
+2024-08-02T17:58:50	0:07:44	fully awake

@@ -1,0 +1,33 @@
+{
+  "ConversionSoftware": "dicm2nii.m 20230316",
+  "SeriesNumber": 3,
+  "SeriesDescription": "MP2RAGE",
+  "ImageType": [
+    "ORIGINAL",
+    "PRIMARY",
+    "OTHER"
+  ],
+  "Modality": "MR",
+  "AcquisitionDateTime": "20240513103435",
+  "RepetitionTime": 3.82226,
+  "CompressedSensingFactor": 1,
+  "PhaseEncodingDirection": "j",
+  "EchoTime": 0.001924,
+  "InversionTime": 0.7,
+  "PatientName": "R_22D041",
+  "PatientSex": "O",
+  "PatientAge": "000Y",
+  "PatientWeight": 50,
+  "PatientPosition": "HFP",
+  "SliceThickness": 1,
+  "FlipAngle": 7,
+  "Manufacturer": "GE MEDICAL SYSTEMS",
+  "SoftwareVersion": "29\\LX\\RX29.1_R02_2131.a",
+  "MRAcquisitionType": "3D",
+  "InstitutionName": "Mayo Clinic in Rochester MR33",
+  "DeviceSerialNumber": "00000000MR129033",
+  "ScanningSequence": "RM\\IR",
+  "SequenceVariant": "NONE",
+  "ScanOptions": "EDR_GEMS\\FILTERED_GEMS\\ACC_GEMS\\FSR_GEMS\\IR_GEMS",
+  "SequenceName": "EFGRE3D"
+}

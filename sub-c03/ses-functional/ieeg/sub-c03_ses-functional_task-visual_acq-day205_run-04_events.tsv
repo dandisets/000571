@@ -1,0 +1,7 @@
+onset	duration	trial_type	value	sample
+5	5	PhaseInSequence	2	5000
+5	5	StimulusCode	1	5000
+10	5	PhaseInSequence	3	10000
+15	5	PhaseInSequence	2	15000
+15	5	StimulusCode	1	15000
+20	3.7	PhaseInSequence	3	20000

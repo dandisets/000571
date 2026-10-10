@@ -1,0 +1,94 @@
+{
+  "Description": [
+    "Custom BCI2000 stimulation configuration metadata. ",
+    "This file is additional to the BIDS specification."
+  ],
+  "EventState": "ImplantStimulation",
+  "TriggerState": "StimulusCode",
+  "StimulationPulses": {
+    "Columns": "Var1",
+    "RowLabels": [
+      "PulseID",
+      "Pulse amplitude [uA]",
+      "Pulse duration [us]",
+      "Dead zone 0 [us]",
+      "Dead zone 1 [us]"
+    ],
+    "Rows": [
+      {
+        "Var1": 1
+      },
+      {
+        "Var1": 3500
+      },
+      {
+        "Var1": 250
+      },
+      {
+        "Var1": 50
+      },
+      {
+        "Var1": 100
+      }
+    ]
+  },
+  "StimulationTriggers": {
+    "Columns": [
+      "Sequence1",
+      "Sequence2",
+      "Sequence3",
+      "Sequence4",
+      "Sequence5",
+      "Sequence6"
+    ],
+    "RowLabels": [
+      "Trigger",
+      "PulseID",
+      "Source ch",
+      "Destination ch",
+      "Pulse Repetition"
+    ],
+    "Rows": [
+      {
+        "Sequence1": "StimulusCode==1",
+        "Sequence2": "StimulusCode==2",
+        "Sequence3": "StimulusCode==3",
+        "Sequence4": "StimulusCode==4",
+        "Sequence5": "StimulusCode==5",
+        "Sequence6": "StimulusCode==6"
+      },
+      {
+        "Sequence1": 1,
+        "Sequence2": 1,
+        "Sequence3": 1,
+        "Sequence4": 1,
+        "Sequence5": 1,
+        "Sequence6": 1
+      },
+      {
+        "Sequence1": 1,
+        "Sequence2": 2,
+        "Sequence3": 3,
+        "Sequence4": 4,
+        "Sequence5": 5,
+        "Sequence6": 6
+      },
+      {
+        "Sequence1": 7,
+        "Sequence2": 8,
+        "Sequence3": 9,
+        "Sequence4": 10,
+        "Sequence5": 10,
+        "Sequence6": 12
+      },
+      {
+        "Sequence1": 1,
+        "Sequence2": 1,
+        "Sequence3": 1,
+        "Sequence4": 1,
+        "Sequence5": 1,
+        "Sequence6": 1
+      }
+    ]
+  }
+}

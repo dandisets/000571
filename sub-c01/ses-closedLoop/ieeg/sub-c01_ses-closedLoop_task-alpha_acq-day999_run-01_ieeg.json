@@ -1,0 +1,36 @@
+{
+  "TaskName": "alpha",
+  "iEEGReference": "n/a",
+  "SamplingFrequency": 1000,
+  "PowerLineFrequency": 60,
+  "SoftwareFilters": "n/a",
+  "Manufacturer": "CorTec",
+  "ManufacturersModelName": "Brain Interchange",
+  "RecordingDuration": 430,
+  "RecordingType": "continuous",
+  "ECOGChannelCount": 32,
+  "SEEGChannelCount": 0,
+  "EEGChannelCount": 0,
+  "EOGChannelCount": 0,
+  "ECGChannelCount": 0,
+  "EMGChannelCount": 0,
+  "MiscChannelCount": 0,
+  "TriggerChannelCount": 0,
+  "ElectricalStimulation": false,
+  "BCI2000": {
+    "OriginalFile": "day999R01.dat",
+    "OriginalPath": "sourcedata/sub-c01/ses-closedLoop/ieeg/day999R01.dat",
+    "ConversionProfile": "CorTecBIC_ClosedLoop",
+    "ProfileVersion": "0.3.1",
+    "SourceModule": "CorTecADC",
+    "StorageTime": "2025-12-13T17:31:54.000",
+    "Preprocessing": {
+      "function": "maskStateSamples",
+      "state": "ImplantLostSample",
+      "condition": "nonzero",
+      "target": "signal",
+      "replacement": "NaN"
+    },
+    "Converter": "BCI2000_to_BIDS"
+  }
+}

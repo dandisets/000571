@@ -1,0 +1,14 @@
+onset	duration	trial_type	value	sample	electrical_stimulation_trigger	electrical_stimulation_function_ids
+2.083	2.518	electrical_stimulation	1	2083	StimulusCode==1	1
+7.082	2.515	electrical_stimulation	1	7082	StimulusCode==1	1
+12.078	2.54	electrical_stimulation	1	12078	StimulusCode==1	1
+17.078	2.513	electrical_stimulation	1	17078	StimulusCode==1	1
+22.084	2.606	electrical_stimulation	1	22084	StimulusCode==1	1
+27.216	2.523	electrical_stimulation	1	27216	StimulusCode==1	1
+32.081	2.52	electrical_stimulation	1	32081	StimulusCode==1	1
+37.086	2.524	electrical_stimulation	1	37086	StimulusCode==1	1
+42.076	2.518	electrical_stimulation	1	42076	StimulusCode==1	1
+47.076	2.522	electrical_stimulation	1	47076	StimulusCode==1	1
+52.074	2.526	electrical_stimulation	1	52074	StimulusCode==1	1
+57.212	2.558	electrical_stimulation	1	57212	StimulusCode==1	1
+62.086	2.414	electrical_stimulation	1	62086	StimulusCode==1	1

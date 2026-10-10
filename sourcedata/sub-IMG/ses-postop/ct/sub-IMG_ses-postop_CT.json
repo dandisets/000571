@@ -1,0 +1,12 @@
+{
+  "ConversionSoftware": "dicm2nii.m 20230316",
+  "SeriesNumber": 3,
+  "SeriesDescription": "CT",
+  "ImageType": [
+    "ORIGINAL",
+    "PRIMARY",
+    "OTHER"
+  ],
+  "Modality": "CT",
+  "MRAcquisitionType": "3D"
+}

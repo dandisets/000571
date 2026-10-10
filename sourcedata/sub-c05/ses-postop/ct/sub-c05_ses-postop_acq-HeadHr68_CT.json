@@ -1,0 +1,26 @@
+{
+  "ConversionSoftware": "dicm2nii.m 20230316",
+  "SeriesNumber": 3,
+  "SeriesDescription": "Head 0.5  Hr68  3",
+  "ImageType": [
+    "ORIGINAL",
+    "PRIMARY",
+    "AXIAL",
+    "CT_SOM5 SPI"
+  ],
+  "Modality": "CT",
+  "AcquisitionDateTime": "20260112153341.561000",
+  "PatientName": "R_25D077^Head^Worrell",
+  "PatientSex": "O",
+  "PatientAge": "099Y",
+  "PatientPosition": "HFS",
+  "SliceThickness": 0.5,
+  "Manufacturer": "SIEMENS",
+  "SoftwareVersion": "syngo CT VB20A",
+  "InstitutionName": "Mayo Clinic in Rochester RC4M",
+  "InstitutionAddress": "200\r\nRochester/\r\nMN\r\nUSA",
+  "DeviceSerialNumber": "73013",
+  "TableHeight": 243,
+  "DistanceSourceToPatient": 595,
+  "DistanceSourceToDetector": 1085.6
+}
